@@ -12,11 +12,13 @@ export function scrapeAdvice() {
     .then((res) => res.text())
     .then((res) => JSON.parse(res))
     .then((/** @type {typeof ADVICE_RESPONSE} */ data) => {
-      return data.res.map((item) => {
-        if (item.item_name.toLowerCase().includes('9070')) {
-          return `found a 9070 * at ${item.item_url}`
-        }
-      })
+      return data.res
+        .map((item) => {
+          if (item.item_name.toLowerCase().includes('9070')) {
+            return `found a 9070 * at ${item.item_url}`
+          }
+        })
+        .filter(Boolean)
     })
 }
 
