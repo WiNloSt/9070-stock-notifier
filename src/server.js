@@ -2,7 +2,7 @@ import './setupDevEnv.js'
 import { CronJob } from 'cron'
 import { sendNotification } from './utils/notification.js'
 import './utils/scraper.js'
-import { scrapeAdvice } from './utils/scraper.js'
+import { scrapeAdvice, scrapeJib } from './utils/scraper.js'
 
 /**
  * @returns {string}
@@ -20,6 +20,12 @@ const job = CronJob.from({
   onTick: function () {
     console.log(`${currentDate()}: every 5 minutes`)
     scrapeAdvice().then((items) => {
+      const message = items.join('\n')
+      if (message) {
+        sendNotification(message)
+      }
+    })
+    scrapeJib().then((items) => {
       const message = items.join('\n')
       if (message) {
         sendNotification(message)
