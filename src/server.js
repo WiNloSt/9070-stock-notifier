@@ -19,18 +19,28 @@ const job = CronJob.from({
   cronTime: '0 */5 * * * *',
   onTick: function () {
     console.log(`${currentDate()}: every 5 minutes`)
-    scrapeAdvice().then((items) => {
-      const message = items.join('\n')
-      if (message) {
-        sendNotification(message)
-      }
-    })
-    scrapeJib().then((items) => {
-      const message = items.join('\n')
-      if (message) {
-        sendNotification(message)
-      }
-    })
+    scrapeAdvice()
+      .then((items) => {
+        const message = items.join('\n')
+        if (message) {
+          sendNotification(message)
+        }
+      })
+      .catch((error) => {
+        console.error('Error while scraping Advice', error)
+        sendNotification(`❌ Error while scraping Advice`)
+      })
+    scrapeJib()
+      .then((items) => {
+        const message = items.join('\n')
+        if (message) {
+          sendNotification(message)
+        }
+      })
+      .catch((error) => {
+        console.error('Error while scraping JIB', error)
+        sendNotification(`❌ Error while scraping JIB`)
+      })
   },
   start: true,
   timeZone: 'Asia/Bangkok',
