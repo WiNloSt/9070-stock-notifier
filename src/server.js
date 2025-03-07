@@ -22,7 +22,6 @@ const job = CronJob.from({
     scrapeAdvice().then((items) => {
       sendNotification(items.join('\n'))
     })
-    sendNotification('test notification')
   },
   start: true,
   timeZone: 'Asia/Bangkok',
