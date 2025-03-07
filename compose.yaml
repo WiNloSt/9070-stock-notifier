@@ -1,0 +1,9 @@
+services:
+  express:
+    env_file: ".env"
+    image: ghcr.io/winlost/9070-stock-notifier:main
+    pull_policy: always
+    build: .
+    ports:
+      - "3001:3001"
+    restart: always

@@ -1,0 +1,23 @@
+{
+  "name": "9070-stock-notifier",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "NODE_ENV=development nodemon src/server.js",
+    "prod": "NODE_ENV=production node src/server.js",
+    "docker:build": "docker compose build",
+    "docker:up": "docker compose up",
+    "test": "curl --data '{\"key\":\"value\"}' --header 'Content-Type: application/json' localhost:3001/wise-webhook"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cron": "^4.1.0",
+    "dotenv": "^16.4.7"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
