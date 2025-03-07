@@ -16,7 +16,7 @@ export function scrapeAdvice() {
         .map((item) => {
           console.log('item', item)
           if (item.item_name.toLowerCase().includes('9070')) {
-            return `found a 9070 * at ${item.item_url}`
+            return `found ${item.item_name} at ${item.item_url}`
           }
         })
         .filter(Boolean)
