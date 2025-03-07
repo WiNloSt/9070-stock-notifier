@@ -20,7 +20,10 @@ const job = CronJob.from({
   onTick: function () {
     console.log(`${currentDate()}: every 5 minutes`)
     scrapeAdvice().then((items) => {
-      sendNotification(items.join('\n'))
+      const message = items.join('\n')
+      if (message) {
+        sendNotification(message)
+      }
     })
   },
   start: true,
