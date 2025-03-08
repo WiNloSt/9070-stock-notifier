@@ -5,7 +5,7 @@ const { LINE_GROUP, CHANNEL_ACCESS_TOKEN } = process.env
  * @param {string} message
  */
 export function sendNotification(message) {
-  fetch('https://api.line.me/v2/bot/message/push', {
+  return fetch('https://api.line.me/v2/bot/message/push', {
     method: 'POST',
     body: JSON.stringify({
       to: LINE_GROUP,
@@ -21,8 +21,11 @@ export function sendNotification(message) {
       Authorization: `Bearer ${CHANNEL_ACCESS_TOKEN}`,
     },
   })
-    .then((res) => res.json())
-    .then((response) => {
-      console.log(response)
+    .then((res) => Promise.all([res.status, res.json()]))
+    .then(([status, response]) => {
+      console.log(status, response)
+      if (status >= 400) {
+        throw new Error('Failed to send notification')
+      }
     })
 }

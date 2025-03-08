@@ -1,9 +1,18 @@
 import * as cheerio from 'cheerio'
 import { ADVICE_RESPONSE } from './test-responses.js'
 
-const SEARCH_TERM = '9070'
+export const SEARCH_TERM = '9070'
+/**
+ * @typedef Item
+ * @property {string} name
+ * @property {string} href
+ */
 
 // Advice
+/**
+ *
+ * @returns {Promise<string[]>}
+ */
 export function scrapeAdvice() {
   return fetch('https://www.advice.co.th/avi/getProduct', {
     headers: {
@@ -25,6 +34,10 @@ export function scrapeAdvice() {
 }
 
 // JIB
+/**
+ *
+ * @returns {Promise<string[]>}
+ */
 export function scrapeJib() {
   return fetch(
     `https://www.jib.co.th/web/product/product_search/0?str_search=${SEARCH_TERM}&cate_id[]=42`
@@ -32,11 +45,6 @@ export function scrapeJib() {
     .then((res) => res.text())
     .then((res) => {
       const $jib = cheerio.load(res)
-      /**
-       * @typedef Item
-       * @property {string} name
-       * @property {string} href
-       */
 
       /**
        * @type {Item[]}
@@ -54,8 +62,43 @@ export function scrapeJib() {
         .filter((item) => {
           return item.name.toLowerCase().includes(SEARCH_TERM)
         })
+        .filter(Boolean)
         .map((item) => {
           return `found ${item.name} at ${item.href}`
         })
+    })
+}
+// HeadDaddy
+/**
+ *
+ * @returns {Promise<string[]>}
+ */
+export function scrapeHeadDaddy() {
+  return fetch('https://headdaddy.com/index.php/home/process/search', {
+    headers: {
+      'content-type': 'application/x-www-form-urlencoded',
+    },
+    body: `text=${SEARCH_TERM}`,
+    method: 'POST',
+  })
+    .then((res) => res.text())
+    .then((res) => {
+      const $headDaddy = cheerio.load(res)
+
+      /**
+       * @type {Item[]}
+       */
+      const items = []
+      $headDaddy('.index_item tr:nth-child(2) a').each((_, el) => {
+        const name = $headDaddy(el).text().trim()
+        const href = 'https://headdaddy.com/' + el.attribs.href
+
+        items.push({ name, href })
+      })
+
+      return items
+        .filter((item) => item.name.toLowerCase().includes(SEARCH_TERM))
+        .filter(Boolean)
+        .map((item) => `found ${item.name} at ${item.href}`)
     })
 }

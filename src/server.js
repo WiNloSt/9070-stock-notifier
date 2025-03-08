@@ -2,7 +2,7 @@ import './setupDevEnv.js'
 import { CronJob } from 'cron'
 import { sendNotification } from './utils/notification.js'
 import './utils/scraper.js'
-import { scrapeAdvice, scrapeJib } from './utils/scraper.js'
+import { scrapeAdvice, scrapeHeadDaddy, scrapeJib, SEARCH_TERM } from './utils/scraper.js'
 
 /**
  * @returns {string}
@@ -20,30 +20,45 @@ const job = CronJob.from({
   onTick: function () {
     console.log(`${currentDate()}: every 5 minutes`)
     scrapeAdvice()
-      .then((items) => {
-        const message = items.join('\n')
-        if (message) {
-          sendNotification(message)
-        }
-      })
-      .catch((error) => {
-        console.error('Error while scraping Advice', error)
-        sendNotification(`❌ Error while scraping Advice`)
-      })
+      .then(handleSuccess)
+      .catch(handleFailure('Advice', `https://www.advice.co.th/search?keyword=${SEARCH_TERM}`))
     scrapeJib()
-      .then((items) => {
-        const message = items.join('\n')
-        if (message) {
-          sendNotification(message)
-        }
-      })
-      .catch((error) => {
-        console.error('Error while scraping JIB', error)
-        sendNotification(`❌ Error while scraping JIB`)
-      })
+      .then(handleSuccess)
+      .catch(
+        handleFailure(
+          'JIB',
+          `https://www.jib.co.th/web/product/product_search/0?str_search=${SEARCH_TERM}&cate_id%5B%5D=42`
+        )
+      )
+    scrapeHeadDaddy()
+      .then(handleSuccess)
+      .catch(handleFailure('HeadDaddy', 'https://www.headdaddy.com/index.php/home/'))
   },
   start: true,
   timeZone: 'Asia/Bangkok',
 })
 
 job.start()
+
+/**
+ *
+ * @param {string[]} messages
+ */
+function handleSuccess(messages) {
+  const message = messages.join('\n')
+  if (message) {
+    return sendNotification(message)
+  }
+}
+
+/**
+ *
+ * @param {string} source
+ * @returns {(error: Error) => void}
+ */
+function handleFailure(source, url) {
+  return function (error) {
+    console.error(`Error while scraping ${source}`, error)
+    sendNotification(`❌ Error while scraping ${source}: ${url}`)
+  }
+}

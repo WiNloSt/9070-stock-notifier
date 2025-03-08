@@ -12181,3 +12181,2388 @@ export const JIB_RESPONSE = `
             <script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="1e90dd6576f6826b5b2ce572-|49" defer></script><script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'91c765bd4e007dc0',t:'MTc0MTMyMjI0NS4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
 </html>
 `
+
+export const HEAD_DADDY_RESPONSE = `
+<!DOCTYPE html>
+<html lang="th">
+<!--<html xmlns:fb="http://ogp.me/ns/fb#">-->
+<head>
+
+
+<base href="https://headdaddy.com/" />
+<title>ซื้อของ ขายของออนไลน์ ช้อปปิ้ง | คอมพิวเตอร์ notebook tablet มือถือ | ส่งฟรี ราคาถูก | HeadDaddy เฮดแดดดี้</title>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-W5QQRMN');</script>
+<!-- End Google Tag Manager -->
+<link rel="icon" href="https://headdaddy.com/themes/home/icon/icon-title.ico" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-28871641-4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-28871641-4');
+</script>
+<script>(function() {
+  var _fbq = window._fbq || (window._fbq = []);
+  if (!_fbq.loaded) {
+    var fbds = document.createElement('script');
+    fbds.async = true;
+    fbds.src = '//connect.facebook.net/en_US/fbds.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(fbds, s);
+    _fbq.loaded = true;
+  }
+  _fbq.push(['addPixelId', '1433277580226163']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=1433277580226163&amp;ev=PixelInitialized" /></noscript>
+
+<meta http-equiv="Cache-control" content="public">
+<meta name='author' content='HeadDaddy' />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="index,follow" />
+<link href="themes/home/css/style_1.css?date=1741410806" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" href="themes/shop/css/validationEngine.jquery.css" type="text/css" />
+
+<link href="themes/home/css/leng2014-04-07.css" rel="stylesheet" type="text/css" />
+<link href="themes/home/dropdown/css/dropdown.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="themes/home/dropdown/css/default.ultimate.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="themes/home/dropdown/css/horizontal-centering.css" media="all" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" href="//code.jquery.com/ui/1.10.4/themes/smoothness/jquery-ui.css" />
+<link rel="stylesheet" href="themes/home/css/tiny.css" />
+<link href="https://img.advice.co.th/images_nas/advice/mourn.js/src/css/mourn.css" rel="stylesheet">
+<script type="text/javascript" src="themes/home/js/tinybox.js"></script>
+<script type="text/javascript" src="themes/home/js/jquery-1.7.1.min.js" ></script>
+<script src="themes/home/js/jquery.zclip.js" type="text/javascript"></script>
+<script type="text/javascript" src="themes/shop/js/jquery.validationEngine-en.js"></script>
+<script type="text/javascript" src="themes/shop/js/jquery.validationEngine.js"></script>
+<script src="//code.jquery.com/ui/1.10.4/jquery-ui.js"></script>
+<script src="themes/home/js/add_item.js?v3date=2025-03-08 12:13:26" type="text/javascript"></script>
+	<script src="themes/home/js/main.js" type="text/javascript"></script>
+	<link href="themes/home/css/jquery.msgbox.css" rel="stylesheet" type="text/css" />
+	<script src="themes/home/js/jquery.msgbox.min.js" type="text/javascript"></script>
+	<script type="text/javascript" src="https://img.advice.co.th/images_nas/advice/mourn.js/src/js/mourn.js"></script>
+	<!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script> -->
+	<!-- <link rel="stylesheet" href="https://headdaddy.com/themes/home/js/add_item.js" /> -->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.js"></script>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.css" />
+		<script>
+
+	  window.fbAsyncInit = function() {
+  FB.init({
+	  appId      : '2991967701026634',
+    cookie     : true,  // enable cookies to allow the server to access
+    xfbml      : true,  // parse social plugins on this page
+    version    : 'v2.3' // use graph api version 2.8
+  });
+
+
+  };
+
+  (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/sdk.js";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
+
+  function facebook_login() {
+    //console.log('Welcome!  Fetching your information.... ');
+    FB.login(function(response) {
+    	 if (response.status === 'connected') {
+		    FB.api('/me', function(response2) {
+		      //console.log(response2);
+		     		$.ajax({
+					type : "POST",
+					data : {obj:response2 , page_his : document.referrer},
+					url : "index.php/home/welcome/login",
+							success : function(data) {
+								//console.log(data);
+								window.location.href = data;
+					}
+				});
+		    });
+		}
+    });
+  }
+
+
+	$(document).ready(function() {
+
+
+
+
+
+		$("#form_comment").validationEngine();
+		$("#form_comment2").validationEngine();
+		$("#form_comment3").validationEngine();
+
+ $('.tooltip').css('display','');
+
+    $("#copy-callbacks").zclip({
+path:"themes/home/js/ZeroClipboard.swf",
+copy:$("#callback-paragraph").text()
+
+     });
+  });
+</script>
+
+<style>
+		label {
+			display: inline-block;
+			width: 5em;
+		}
+
+		.foot-cookie {
+			position: fixed;
+			bottom: 0;
+			right: 0;
+			width: 100%;
+			height: 50px;
+			background: #E58D10 0% 0% no-repeat padding-box;
+			opacity: 0.9;
+			z-index: 9999;
+			font-family: 'Arial' !important;
+		}
+
+		.foot-cookie-con {
+			float: left;
+			width: 100%;
+			text-align: center;
+			letter-spacing: 0;
+			color: #FFFFFF;
+			opacity: 1;
+			position: absolute;
+			font: 14px/24px 'Arial' !important;
+			top: 25%;
+		}
+
+		.p-cookie-c {
+			width: 100%;
+			height: 26px;
+			letter-spacing: 0;
+			color: #FFFFFF;
+			opacity: 1;
+			font-weight: bold;
+		}
+
+		.btn-frim {
+			background: #FFFFFF 0% 0% no-repeat padding-box;
+			position: absolute;
+			top: -15% !important;
+			margin-left: 5px;
+			font: Bold 14px/24px 'Arial' !important;
+		}
+
+		.modal {
+			max-width : 1000px;
+
+		}
+
+		.btn-cookie {
+			background-color: #4CAF50;
+			/* Green */
+			border: none;
+			color: white;
+			padding: 6px 32px;
+			text-align: center;
+			text-decoration: none;
+			display: inline-block;
+			font-size: 16px;
+			margin: 4px 2px;
+			cursor: pointer;
+		}
+
+		.btn-red {
+			background-color: #f44336;
+		}
+
+		.switch {
+			background-color: #ddd;
+			border-radius: 18px;
+			cursor: pointer;
+			display: inline-block;
+			height: 20px;
+			padding: 3px;
+			position: relative;
+			vertical-align: top;
+			width: 56px;
+		}
+
+		.switch-input {
+			left: 0;
+			opacity: 0;
+			position: absolute;
+			top: 0;
+		}
+
+		.switch-label {
+			background: #eceeef none repeat scroll 0 0;
+			border-radius: inherit;
+			display: block;
+			font-size: 10px;
+			height: inherit;
+			position: relative;
+			text-transform: uppercase;
+			transition: all 0.15s ease-out 0s;
+		}
+
+		.switch-label::before,
+		.switch-label::after {
+			line-height: 1;
+			margin-top: -0.5em;
+			position: absolute;
+			top: 50%;
+			transition: inherit;
+		}
+
+		/*
+.switch-label::before {
+    color: #aaa;
+    content: attr(data-off);
+    right: 11px;
+}
+.switch-label::after {
+    color: white;
+    content: attr(data-on);
+    left: 11px;
+    opacity: 0;
+}
+*/
+		.switch-input:checked~.switch-label {
+			background: #47a8d8 none repeat scroll 0 0;
+		}
+
+		/*
+.switch-input:checked ~ .switch-label::before {
+    opacity: 0;
+}
+.switch-input:checked ~ .switch-label::after {
+    opacity: 1;
+}
+*/
+		.switch-handle {
+			background-color: #fff;
+			border-radius: 10px;
+			height: 18px;
+			left: 4px;
+			position: absolute;
+			top: 4px;
+			transition: left 0.15s ease-out 0s;
+			width: 18px;
+		}
+
+		.switch-handle::before {
+			background-color: #f9f9f9;
+			border-radius: 6px;
+			content: "";
+			height: 12px;
+			left: 50%;
+			margin: -6px 0 0 -6px;
+			position: absolute;
+			top: 50%;
+			width: 12px;
+		}
+
+		.switch-input:checked~.switch-handle {
+			left: 40px;
+		}
+
+		.switch-green>.switch-input:checked~.switch-label {
+			background-color: #4fb845;
+		}
+
+		[class*="col-"] {
+			float: left;
+			padding: 15px;
+		}
+
+		.col-1 {
+			width: 8.33%;
+		}
+
+		.col-2 {
+			width: 16.66%;
+		}
+
+		.col-3 {
+			width: 25%;
+		}
+
+		.col-4 {
+			width: 33.33%;
+		}
+
+		.col-5 {
+			width: 41.66%;
+		}
+
+		.col-6 {
+			width: 50%;
+		}
+
+		.col-7 {
+			width: 58.33%;
+		}
+
+		.col-8 {
+			width: 66.66%;
+		}
+
+		.col-9 {
+			width: 75%;
+		}
+
+		.col-10 {
+			width: 83.33%;
+		}
+
+		.col-11 {
+			width: 91.66%;
+		}
+
+		.col-12 {
+			width: 100%;
+		}
+
+		.row::after {
+			content: "";
+			clear: both;
+			display: table;
+		}
+
+
+		.columns {
+			column-count: 2;
+			column-rule: 2px solid #ddd;
+			column-gap: 1.5rem;
+			-webkit-column-gap: 1.5rem;
+			-moz-column-gap: 1.5rem;
+			column-width: 200px;
+		}
+
+		.column {
+			float: left;
+			width: 50%;
+			padding: 5px;
+		}
+		.row { display: flex; flex-wrap: wrap; }
+		.w-100 { width: 100% !important; }
+		.m-0 { margin: 0px !important; }
+		.p-0 { padding: 0px !important; }
+		.d-none { display: none; }
+		.pointer { cursor: pointer; }
+		.position-relative { position: relative; }
+		.position-absolute { position: absolute; }
+		.justify-content-center { justify-content: center; }
+		.text-center { text-align: center; }
+		.text-right { text-align: right; }
+		.color-blue { color: #2196f3; }
+	</style>
+<script type="text/javascript" src="themes/home/js/functions.js"></script>
+									  <script src="themes/home/js/tooltip.js" type="text/javascript"></script>
+<script>(function() {
+  var _fbq = window._fbq || (window._fbq = []);
+  if (!_fbq.loaded) {
+    var fbds = document.createElement('script');
+    fbds.async = true;
+    fbds.src = '//connect.facebook.net/en_US/fbds.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(fbds, s);
+    _fbq.loaded = true;
+  }
+  _fbq.push(['addPixelId', '466693560173790']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=466693560173790&amp;ev=PixelInitialized" /></noscript>
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W5QQRMN"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+<div id="container">
+    <div class="show_content">
+	<input type="hidden" id="base_path_aey" value="https://headdaddy.com/">
+	<input type="hidden" id="base_user_aey" value="">
+    <div id="mainbox">
+        <div class="main">
+	<div class="head_style-0 main-head_style">
+		<div class="m-auto">
+			<div class="head_l main-head_gray">
+				<div><img class="icon-head_dtl" src="https://img.advice.co.th/images_nas/headdaddy/icon/time.png" alt="Time"></div>เวลาทำการ จันทร์ - เสาร์ 09.00 - 18.00 น.
+				<div><img class="icon-head_dtl" src="https://img.advice.co.th/images_nas/headdaddy/icon/warranty.png" alt="Warranty"></div>ของแท้ประกันศูนย์
+				<div><img class="icon-head_dtl" src="https://img.advice.co.th/images_nas/headdaddy/icon/delivery.png" alt="Delivery"></div>1,000 บาทขึ้นไปส่งฟรี
+			</div>
+			<div class="head_r main-head_gray">
+				<div><a href="https://www.facebook.com/Headdaddy" aria-label="go to fanpage" target="_blank"><img class="icon-head_dtl" src="https://img.advice.co.th/images_nas/headdaddy/icon/facebook.png" alt="Facebook"></a></div>@Headdaddy
+				<div><a href="https://line.me/R/ti/p/%40gtx0458z" aria-label="go to line official" target="_blank"><img class="icon-head_dtl" src="https://img.advice.co.th/images_nas/headdaddy/icon/line.png" alt="Line"></a></div>@Headdaddy
+		</div>
+	</div>
+	</div>
+	<div class="head_style-1 main-head_style">
+	<div class="m-auto">
+		<div class="head_content"><a href="index.php/home/" aria-label="go to home page"><div class="head_logo"></div></a>
+			<div class="head_main">
+				<div class="index_search">
+				<div class="border_search">
+					<form id="form_comment2" action="index.php/home/process/search" method="post">
+						<input type="text" name="text" placeholder="ค้นหาสินค้า" class="validate[required] text-input inp-search">
+					</form>
+					<div class="icon-search"><img src="https://img.advice.co.th/images_nas/headdaddy/icon/search.png" alt="Search"></div>
+				</div>
+				</div>
+				<div class="icon-menu main-head_style">
+				<span class="w-120px">
+					<img class="icon-head" src="https://img.advice.co.th/images_nas/headdaddy/icon/call.png" alt="Call Center"><div  class="icon-name">02-908-8888</div>
+				</span>
+				<a href="index.php/home/member/his" aria-label="go to order status page" style="width: 140px;">
+					<img class="icon-head" src="https://img.advice.co.th/images_nas/headdaddy/icon/check.png" alt="Order Status"><div class="icon-name">เช็คสถานะสั่งซื้อ</div>
+				</a>
+				<a href="index.php/home/order" aria-label="go to my cart" style="width: 68px;">
+					<img class="icon-head" src="https://img.advice.co.th/images_nas/headdaddy/icon/cart.png" alt="Cart"><div  class="icon-name">ตะกร้า</div>
+				</a>
+				<a href="index.php/home/register/signup" aria-label="link for user" class="w-120px">
+					<img class="icon-head" src="https://img.advice.co.th/images_nas/headdaddy/icon/user.png" alt="User"><div  class="icon-name">เข้าสู่ระบบ</div>
+				</a>
+				</div>
+			</div>
+		</div>
+		</div>
+	</div>
+	<div class="head_style-2">
+	<div class="navbar-menu">
+		<div class="dropdown w-nav">
+			<button class="dropbtn">สินค้า <i class="fa fa-caret-down"></i></button>
+
+<style>
+.v_menu1 .abd table{font-size:14px;}
+</style>
+<ul class="v_menu1">
+	<li>
+<ul class="v_menu" id="s1">
+<li class="abd" onmouseover="$('#kk01891').css('margin-top','-29px');  " style="">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0" >
+						<tr>
+							<td width="15%"><img src="https://img.advice.co.th/images_nas/advice/oneweb/assets/images/icon/01-notebook.svg" style="height:20px;"></td>
+							<td width="80%" style="text-align: left;padding-left: 10px;">APPLE PRODUCTS</td>
+							<td align="right"><img src="themes/home/icon/icon_menu/icon_06.png" /></td>
+						</tr>
+					</table>
+					<ul id="kk01891"> <li class="abc menu-sub-categoty-2" id="dd39" style="width:240px;">
+										<div style="width: 220px; float:left; "><div style="width: 220px; float:left; ">
+							<a title="iPad" href="index.php/home/get_menu/category/01891"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">iPad</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="iPhone" href="index.php/home/get_menu/category/01890"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">iPhone</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Mac" href="index.php/home/get_menu/category/01882"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Mac</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Apple Watch" href="index.php/home/get_menu/category/01910"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Apple Watch</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="AirPods" href="index.php/home/get_menu/category/01915"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">AirPods</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Apple TV" href="index.php/home/get_menu/category/01883"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Apple TV</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="AppleCare" href="index.php/home/get_menu/category/01901"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">AppleCare</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="อุปกรณ์เสริม Apple" href="index.php/home/get_menu/category/01881"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">อุปกรณ์เสริม Apple</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Film (ฟิล์ม)" href="index.php/home/get_menu/category/01926"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Film (ฟิล์ม)</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Case (เคส)" href="index.php/home/get_menu/category/01927"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Case (เคส)</span></div>
+							</a>
+						</div></div></ul>
+		</li><li class="abd" onmouseover="$('#kk01989').css('margin-top','-65px');  " style="">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0" >
+						<tr>
+							<td width="15%"><img src="https://img.advice.co.th/images_nas/advice/oneweb/assets/images/icon/19-smartphone.svg" style="height:20px;"></td>
+							<td width="80%" style="text-align: left;padding-left: 10px;">SMARTPHONE / TABLET</td>
+							<td align="right"><img src="themes/home/icon/icon_menu/icon_06.png" /></td>
+						</tr>
+					</table>
+					<ul id="kk01989"> <li class="abc menu-sub-categoty-2" id="dd20" style="width:240px;">
+										<div style="width: 220px; float:left; "><div style="width: 220px; float:left; ">
+							<a title="Special Price" href="index.php/home/get_menu/category/01989"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Special Price</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Smartphone" href="index.php/home/get_menu/category/00996"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Smartphone</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Tablet" href="index.php/home/get_menu/category/01314"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Tablet</span></div>
+							</a>
+						</div></div></ul>
+		</li><li class="abd" onmouseover="$('#kk01966').css('margin-top','-65px');  " style="">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0" >
+						<tr>
+							<td width="15%"><img src="https://img.advice.co.th/images_nas/advice/oneweb/assets/images/icon/02_smart_watch.svg" style="height:20px;"></td>
+							<td width="80%" style="text-align: left;padding-left: 10px;">SMART WATCH</td>
+							<td align="right"><img src="themes/home/icon/icon_menu/icon_06.png" /></td>
+						</tr>
+					</table>
+					<ul id="kk01966"> <li class="abc menu-sub-categoty-2" id="dd40" style="width:240px;">
+										<div style="width: 220px; float:left; "><div style="width: 220px; float:left; ">
+							<a title="GARMIN Smart Watch" href="index.php/home/get_menu/category/01966"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">GARMIN Smart Watch</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="AMAZFIT Smart Watch" href="index.php/home/get_menu/category/01967"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">AMAZFIT Smart Watch</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="XIAOMI Smart Watch" href="index.php/home/get_menu/category/01968"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">XIAOMI Smart Watch</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="REDMI Smart Watch" href="index.php/home/get_menu/category/02003"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">REDMI Smart Watch</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="REMAX Smart Watch" href="index.php/home/get_menu/category/01972"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">REMAX Smart Watch</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="SAMSUNG Smart Watch" href="index.php/home/get_menu/category/02004"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">SAMSUNG Smart Watch</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="HUAWEI Smart Watch" href="index.php/home/get_menu/category/02005"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">HUAWEI Smart Watch</span></div>
+							</a>
+						</div></div></ul>
+		</li><li class="abd" onmouseover="$('#kk01992').css('margin-top','-65px');  " style="">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0" >
+						<tr>
+							<td width="15%"><img src="https://img.advice.co.th/images_nas/advice/oneweb/assets/images/icon/29-smart-home-logo.svg" style="height:20px;"></td>
+							<td width="80%" style="text-align: left;padding-left: 10px;">SMART LIFE & IOT</td>
+							<td align="right"><img src="themes/home/icon/icon_menu/icon_06.png" /></td>
+						</tr>
+					</table>
+					<ul id="kk01992"> <li class="abc menu-sub-categoty-2" id="dd26" style="width:240px;">
+										<div style="width: 220px; float:left; "><div style="width: 220px; float:left; ">
+							<a title="Smart Solution" href="index.php/home/get_menu/category/01992"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Smart Solution</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Smart Cleaner" href="index.php/home/get_menu/category/01749"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Smart Cleaner</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Smart Security" href="index.php/home/get_menu/category/01747"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Smart Security</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Smart Health & Life" href="index.php/home/get_menu/category/01994"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Smart Health & Life</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Smart Accessories TV" href="index.php/home/get_menu/category/01955"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Smart Accessories TV</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Smart Pet" href="index.php/home/get_menu/category/01884"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Smart Pet</span></div>
+							</a>
+						</div></div></ul>
+		</li><li class="abd" onmouseover="$('#kk01018').css('margin-top','-65px');  " style="">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0" >
+						<tr>
+							<td width="15%"><img src="https://img.advice.co.th/images_nas/advice/oneweb/assets/images/icon/20-accessories.svg" style="height:20px;"></td>
+							<td width="80%" style="text-align: left;padding-left: 10px;">ACC. SMARTPHONE / TABLET</td>
+							<td align="right"><img src="themes/home/icon/icon_menu/icon_06.png" /></td>
+						</tr>
+					</table>
+					<ul id="kk01018"> <li class="abc menu-sub-categoty-2" id="dd21" style="width:240px;">
+										<div style="width: 220px; float:left; "><div style="width: 220px; float:left; ">
+							<a title="Power Bank" href="index.php/home/get_menu/category/01018"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Power Bank</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Cable Charger" href="index.php/home/get_menu/category/01567"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Cable Charger</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Adapter Tablet/Phone" href="index.php/home/get_menu/category/01389"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Adapter Tablet/Phone</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Car Charger" href="index.php/home/get_menu/category/01825"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Car Charger</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Small Talk / Bluetooth" href="index.php/home/get_menu/category/01569"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Small Talk / Bluetooth</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Accessories Tablet" href="index.php/home/get_menu/category/01700"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Accessories Tablet</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Film  (ฟีล์ม)" href="index.php/home/get_menu/category/01965"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Film  (ฟีล์ม)</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Accessories SAMSUNG" href="index.php/home/get_menu/category/01956"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Accessories SAMSUNG</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Voice Recorder" href="index.php/home/get_menu/category/02019"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Voice Recorder</span></div>
+							</a>
+						</div></div></ul>
+		</li><li class="abd" onmouseover="$('#kk00259').css('margin-top','-65px');  " style="">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0" >
+						<tr>
+							<td width="15%"><img src="https://img.advice.co.th/images_nas/advice/oneweb/assets/images/icon/01-notebook.svg" style="height:20px;"></td>
+							<td width="80%" style="text-align: left;padding-left: 10px;">NOTEBOOK</td>
+							<td align="right"><img src="themes/home/icon/icon_menu/icon_06.png" /></td>
+						</tr>
+					</table>
+					<ul id="kk00259"> <li class="abc menu-sub-categoty-2" id="dd1" style="width:240px;">
+										<div style="width: 220px; float:left; "><div style="width: 220px; float:left; ">
+							<a title="Notebook" href="index.php/home/get_menu/category/00259"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Notebook</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Notebook Gaming" href="index.php/home/get_menu/category/01562"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Notebook Gaming</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Notebook 2in1" href="index.php/home/get_menu/category/01565"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Notebook 2in1</span></div>
+							</a>
+						</div></div></ul>
+		</li><li class="abd" onmouseover="$('#kk00000').css('margin-top','-65px');  " style="">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0" >
+						<tr>
+							<td width="15%"><img src="https://img.advice.co.th/images_nas/advice/oneweb/assets/images/icon/02-desktop.svg" style="height:20px;"></td>
+							<td width="80%" style="text-align: left;padding-left: 10px;">DESKTOP / AIO / SERVER</td>
+							<td align="right"><img src="themes/home/icon/icon_menu/icon_06.png" /></td>
+						</tr>
+					</table>
+					<ul id="kk00000"> <li class="abc menu-sub-categoty-2" id="dd3" style="width:240px;">
+										<div style="width: 220px; float:left; "><div style="width: 220px; float:left; ">
+							<a title="Server" href="index.php/home/get_menu/category/00000"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Server</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="All-in-One PC" href="index.php/home/get_menu/category/00992"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">All-in-One PC</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Desktop PC" href="index.php/home/get_menu/category/01410"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Desktop PC</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Gaming Desktop PC" href="index.php/home/get_menu/category/01566"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Gaming Desktop PC</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Handheld Gaming PC" href="index.php/home/get_menu/category/02006"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Handheld Gaming PC</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Mini PC" href="index.php/home/get_menu/category/01411"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Mini PC</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Server" href="index.php/home/get_menu/category/00932"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Server</span></div>
+							</a>
+						</div></div></ul>
+		</li><li class="abd" onmouseover="$('#kk01767').css('margin-top','-65px');  " style="">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0" >
+						<tr>
+							<td width="15%"><img src="https://img.advice.co.th/images_nas/advice/oneweb/assets/images/icon/02-1-acc-notebook.svg" style="height:20px;"></td>
+							<td width="80%" style="text-align: left;padding-left: 10px;">ACCESSORIES NOTEBOOK</td>
+							<td align="right"><img src="themes/home/icon/icon_menu/icon_06.png" /></td>
+						</tr>
+					</table>
+					<ul id="kk01767"> <li class="abc menu-sub-categoty-2" id="dd2" style="width:240px;">
+										<div style="width: 220px; float:left; "><div style="width: 220px; float:left; ">
+							<a title="Adapter NB Acer" href="index.php/home/get_menu/category/01767"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Adapter NB Acer</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Adapter NB Asus" href="index.php/home/get_menu/category/01770"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Adapter NB Asus</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Adapter NB Dell" href="index.php/home/get_menu/category/01771"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Adapter NB Dell</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Adapter NB Lenovo" href="index.php/home/get_menu/category/01773"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Adapter NB Lenovo</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Adapter NB HP/COMPAQ" href="index.php/home/get_menu/category/01772"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Adapter NB HP/COMPAQ</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Adapter NB Other" href="index.php/home/get_menu/category/01950"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Adapter NB Other</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Battery" href="index.php/home/get_menu/category/01768"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Battery</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Adapter NB MSI" href="index.php/home/get_menu/category/01778"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Adapter NB MSI</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Notebook Accessories" href="index.php/home/get_menu/category/01641"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Notebook Accessories</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="ฟิล์มกันรอยสำหรับ Notebook" href="index.php/home/get_menu/category/01903"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">ฟิล์มกันรอยสำหรับ Notebook</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Cooler Pad" href="index.php/home/get_menu/category/01949"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Cooler Pad</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="กระเป๋าใส่ Notebook" href="index.php/home/get_menu/category/01954"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">กระเป๋าใส่ Notebook</span></div>
+							</a>
+						</div></div></ul>
+		</li><li class="abd" onmouseover="$('#kk01946').css('margin-top','-65px');  " style="">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0" >
+						<tr>
+							<td width="15%"><img src="https://img.advice.co.th/images_nas/advice/oneweb/assets/images/icon/ComputerSet.svg" style="height:20px;"></td>
+							<td width="80%" style="text-align: left;padding-left: 10px;">COMPUTER SET</td>
+							<td align="right"><img src="themes/home/icon/icon_menu/icon_06.png" /></td>
+						</tr>
+					</table>
+					<ul id="kk01946"> <li class="abc menu-sub-categoty-2" id="dd27" style="width:240px;">
+										<div style="width: 220px; float:left; "><div style="width: 220px; float:left; ">
+							<a title="COMPUTER SET INTEL" href="index.php/home/get_menu/category/01946"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">COMPUTER SET INTEL</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="COMPUTER SET AMD" href="index.php/home/get_menu/category/01947"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">COMPUTER SET AMD</span></div>
+							</a>
+						</div></div></ul>
+		</li><li class="abd" onmouseover="$('#kk00023').css('margin-top','-65px');  " style="">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0" >
+						<tr>
+							<td width="15%"><img src="https://img.advice.co.th/images_nas/advice/oneweb/assets/images/icon/27-ram.svg" style="height:20px;"></td>
+							<td width="80%" style="text-align: left;padding-left: 10px;">COMPUTER HARDWARE (DIY)</td>
+							<td align="right"><img src="themes/home/icon/icon_menu/icon_06.png" /></td>
+						</tr>
+					</table>
+					<ul id="kk00023"> <li class="abc menu-sub-categoty-2" id="dd4" style="width:240px;">
+										<div style="width: 220px; float:left; "><div style="width: 220px; float:left; ">
+							<a title="CPU" href="index.php/home/get_menu/category/00023"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">CPU</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Mainboard" href="index.php/home/get_menu/category/00027"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Mainboard</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Graphic Card (VGA)" href="index.php/home/get_menu/category/01762"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Graphic Card (VGA)</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Ram for PC" href="index.php/home/get_menu/category/01397"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Ram for PC</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Ram for NoteBook" href="index.php/home/get_menu/category/01398"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Ram for NoteBook</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Sound Card" href="index.php/home/get_menu/category/00031"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Sound Card</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Case" href="index.php/home/get_menu/category/00897"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Case</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Power Supply" href="index.php/home/get_menu/category/00896"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Power Supply</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Cooling System" href="index.php/home/get_menu/category/01352"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Cooling System</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Optical Disk Drive (ODD)" href="index.php/home/get_menu/category/01564"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Optical Disk Drive (ODD)</span></div>
+							</a>
+						</div></div></ul>
+		</li><li class="abd" onmouseover="$('#kk01737').css('margin-top','-65px');  " style="">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0" >
+						<tr>
+							<td width="15%"><img src="https://img.advice.co.th/images_nas/advice/oneweb/assets/images/icon/03-diy.svg" style="height:20px;"></td>
+							<td width="80%" style="text-align: left;padding-left: 10px;">SSD / HARD DISK / STORAGE</td>
+							<td align="right"><img src="themes/home/icon/icon_menu/icon_06.png" /></td>
+						</tr>
+					</table>
+					<ul id="kk01737"> <li class="abc menu-sub-categoty-2" id="dd8" style="width:240px;">
+										<div style="width: 220px; float:left; "><div style="width: 220px; float:left; ">
+							<a title="SSD (Solid State Drive)" href="index.php/home/get_menu/category/01737"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">SSD (Solid State Drive)</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Hard Disk for Notebook" href="index.php/home/get_menu/category/01652"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Hard Disk for Notebook</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Hard Disk for PC" href="index.php/home/get_menu/category/01653"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Hard Disk for PC</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Hard Disk for CCTV" href="index.php/home/get_menu/category/01869"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Hard Disk for CCTV</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Hard Disk for NAS" href="index.php/home/get_menu/category/01870"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Hard Disk for NAS</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="SSD External" href="index.php/home/get_menu/category/01636"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">SSD External</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Hard Disk External" href="index.php/home/get_menu/category/01408"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Hard Disk External</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Enclosure / Media Player / Bag" href="index.php/home/get_menu/category/01592"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Enclosure / Media Player / Bag</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Network Storage (NAS)" href="index.php/home/get_menu/category/01583"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Network Storage (NAS)</span></div>
+							</a>
+						</div></div></ul>
+		</li><li class="abd" onmouseover="$('#kk01594').css('margin-top','-65px');  " style="">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0" >
+						<tr>
+							<td width="15%"><img src="https://img.advice.co.th/images_nas/advice/oneweb/assets/images/icon/07-flashdrive.svg" style="height:20px;"></td>
+							<td width="80%" style="text-align: left;padding-left: 10px;">MEMORY / FLASH DRIVE / READER</td>
+							<td align="right"><img src="themes/home/icon/icon_menu/icon_06.png" /></td>
+						</tr>
+					</table>
+					<ul id="kk01594"> <li class="abc menu-sub-categoty-2" id="dd9" style="width:240px;">
+										<div style="width: 220px; float:left; "><div style="width: 220px; float:left; ">
+							<a title="Micro SD Card" href="index.php/home/get_menu/category/01594"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Micro SD Card</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="SD Card" href="index.php/home/get_menu/category/01595"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">SD Card</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Flash Drive" href="index.php/home/get_menu/category/00876"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Flash Drive</span></div>
+							</a>
+						</div></div></ul>
+		</li><li class="abd" onmouseover="$('#kk01647').css('margin-top','-65px');  " style="">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0" >
+						<tr>
+							<td width="15%"><img src="https://img.advice.co.th/images_nas/advice/oneweb/assets/images/icon/25-monitor.svg" style="height:20px;"></td>
+							<td width="80%" style="text-align: left;padding-left: 10px;">MONITOR (จอคอม)</td>
+							<td align="right"><img src="themes/home/icon/icon_menu/icon_06.png" /></td>
+						</tr>
+					</table>
+					<ul id="kk01647"> <li class="abc menu-sub-categoty-2" id="dd25" style="width:240px;">
+										<div style="width: 220px; float:left; "><div style="width: 220px; float:left; ">
+							<a title="MONITOR" href="index.php/home/get_menu/category/01647"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">MONITOR</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="SMART MONITOR" href="index.php/home/get_menu/category/01980"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">SMART MONITOR</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="PORTABLE MONITOR" href="index.php/home/get_menu/category/02001"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">PORTABLE MONITOR</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="CURVED MONITOR" href="index.php/home/get_menu/category/02018"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">CURVED MONITOR</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="MONITOR ARM / MOUNT" href="index.php/home/get_menu/category/01971"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">MONITOR ARM / MOUNT</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Adaptor Monitor" href="index.php/home/get_menu/category/01669"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Adaptor Monitor</span></div>
+							</a>
+						</div></div></ul>
+		</li><li class="abd" onmouseover="$('#kk01841').css('margin-top','-65px');  " style="">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0" >
+						<tr>
+							<td width="15%"><img src="https://img.advice.co.th/images_nas/advice/oneweb/assets/images/icon/MOUSE_PAD.svg" style="height:20px;"></td>
+							<td width="80%" style="text-align: left;padding-left: 10px;">MOUSE / PAD</td>
+							<td align="right"><img src="themes/home/icon/icon_menu/icon_06.png" /></td>
+						</tr>
+					</table>
+					<ul id="kk01841"> <li class="abc menu-sub-categoty-2" id="dd33" style="width:240px;">
+										<div style="width: 220px; float:left; "><div style="width: 220px; float:left; ">
+							<a title="Mouse" href="index.php/home/get_menu/category/01841"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Mouse</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Mouse Wireless" href="index.php/home/get_menu/category/01842"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Mouse Wireless</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Pen Mouse" href="index.php/home/get_menu/category/01843"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Pen Mouse</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Mouse Gaming" href="index.php/home/get_menu/category/01831"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Mouse Gaming</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Mouse Wireless Gaming" href="index.php/home/get_menu/category/01930"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Mouse Wireless Gaming</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Mouse Pad" href="index.php/home/get_menu/category/01840"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Mouse Pad</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Gaming Mouse Pad" href="index.php/home/get_menu/category/01919"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Gaming Mouse Pad</span></div>
+							</a>
+						</div></div></ul>
+		</li><li class="abd" onmouseover="$('#kk01844').css('margin-top','-65px');  " style="">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0" >
+						<tr>
+							<td width="15%"><img src="https://img.advice.co.th/images_nas/advice/oneweb/assets/images/icon/KEYBOARD_COMBO_SET.svg" style="height:20px;"></td>
+							<td width="80%" style="text-align: left;padding-left: 10px;">KEYBOARD / COMBO SET</td>
+							<td align="right"><img src="themes/home/icon/icon_menu/icon_06.png" /></td>
+						</tr>
+					</table>
+					<ul id="kk01844"> <li class="abc menu-sub-categoty-2" id="dd34" style="width:240px;">
+										<div style="width: 220px; float:left; "><div style="width: 220px; float:left; ">
+							<a title="Keyboard" href="index.php/home/get_menu/category/01844"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Keyboard</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Keyboard Gaming" href="index.php/home/get_menu/category/01832"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Keyboard Gaming</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Combo Set" href="index.php/home/get_menu/category/01829"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Combo Set</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Combo Set Gaming" href="index.php/home/get_menu/category/01830"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Combo Set Gaming</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Wrist Rest" href="index.php/home/get_menu/category/01897"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Wrist Rest</span></div>
+							</a>
+						</div></div></ul>
+		</li><li class="abd" onmouseover="$('#kk01837').css('margin-top','-65px');  " style="">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0" >
+						<tr>
+							<td width="15%"><img src="https://img.advice.co.th/images_nas/advice/oneweb/assets/images/icon/HEADSET_MICROPHONE.svg" style="height:20px;"></td>
+							<td width="80%" style="text-align: left;padding-left: 10px;">HEADSET / MICROPHONE</td>
+							<td align="right"><img src="themes/home/icon/icon_menu/icon_06.png" /></td>
+						</tr>
+					</table>
+					<ul id="kk01837"> <li class="abc menu-sub-categoty-2" id="dd35" style="width:240px;">
+										<div style="width: 220px; float:left; "><div style="width: 220px; float:left; ">
+							<a title="Headset" href="index.php/home/get_menu/category/01837"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Headset</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Wireless Headset" href="index.php/home/get_menu/category/01999"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Wireless Headset</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Headset Gaming" href="index.php/home/get_menu/category/01833"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Headset Gaming</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Wireless Headset Gaming" href="index.php/home/get_menu/category/01931"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Wireless Headset Gaming</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Headset Stand" href="index.php/home/get_menu/category/01908"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Headset Stand</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Microphone" href="index.php/home/get_menu/category/01846"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Microphone</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Gaming Microphone" href="index.php/home/get_menu/category/01868"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Gaming Microphone</span></div>
+							</a>
+						</div></div></ul>
+		</li><li class="abd" onmouseover="$('#kk01985').css('margin-top','-65px');  " style="">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0" >
+						<tr>
+							<td width="15%"><img src="https://img.advice.co.th/images_nas/advice/oneweb/assets/images/icon/SPEAKER.svg" style="height:20px;"></td>
+							<td width="80%" style="text-align: left;padding-left: 10px;">SPEAKER</td>
+							<td align="right"><img src="themes/home/icon/icon_menu/icon_06.png" /></td>
+						</tr>
+					</table>
+					<ul id="kk01985"> <li class="abc menu-sub-categoty-2" id="dd36" style="width:240px;">
+										<div style="width: 220px; float:left; "><div style="width: 220px; float:left; ">
+							<a title="ลำโพง Hi-End" href="index.php/home/get_menu/category/01985"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">ลำโพง Hi-End</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="ลำโพง มีสาย" href="index.php/home/get_menu/category/01986"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">ลำโพง มีสาย</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="ลำโพง บลูทูธ" href="index.php/home/get_menu/category/01987"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">ลำโพง บลูทูธ</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Speaker ช่วยสอน / ลำโพงปาร์ตี้ Blue" href="index.php/home/get_menu/category/02035"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Speaker ช่วยสอน / ลำโพงปาร์ตี้ Blue</span></div>
+							</a>
+						</div></div></ul>
+		</li><li class="abd" onmouseover="$('#kk01921').css('margin-top','-65px');  " style="">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0" >
+						<tr>
+							<td width="15%"><img src="https://img.advice.co.th/images_nas/advice/oneweb/assets/images/icon/17-chair.svg" style="height:20px;"></td>
+							<td width="80%" style="text-align: left;padding-left: 10px;">GAMING CHAIRS & DESK</td>
+							<td align="right"><img src="themes/home/icon/icon_menu/icon_06.png" /></td>
+						</tr>
+					</table>
+					<ul id="kk01921"> <li class="abc menu-sub-categoty-2" id="dd38" style="width:240px;">
+										<div style="width: 220px; float:left; "><div style="width: 220px; float:left; ">
+							<a title="Gaming Chairs" href="index.php/home/get_menu/category/01921"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Gaming Chairs</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Gaming Desk" href="index.php/home/get_menu/category/01852"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Gaming Desk</span></div>
+							</a>
+						</div></div></ul>
+		</li><li class="abd" onmouseover="$('#kk01941').css('margin-top','-65px');  " style="">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0" >
+						<tr>
+							<td width="15%"><img src="https://img.advice.co.th/images_nas/advice/oneweb/assets/images/icon/OTHER_GAMING_ACCESSORIES.svg" style="height:20px;"></td>
+							<td width="80%" style="text-align: left;padding-left: 10px;">OTHER GAMING ACCESSORIES</td>
+							<td align="right"><img src="themes/home/icon/icon_menu/icon_06.png" /></td>
+						</tr>
+					</table>
+					<ul id="kk01941"> <li class="abc menu-sub-categoty-2" id="dd37" style="width:240px;">
+										<div style="width: 220px; float:left; "><div style="width: 220px; float:left; ">
+							<a title="Controller Wireless / Bluetooth" href="index.php/home/get_menu/category/01941"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Controller Wireless / Bluetooth</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Controller Analog" href="index.php/home/get_menu/category/01942"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Controller Analog</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Controller Racing" href="index.php/home/get_menu/category/01944"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Controller Racing</span></div>
+							</a>
+						</div></div></ul>
+		</li><li class="abd" onmouseover="$('#kk01741').css('margin-top','-65px');  " style="">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0" >
+						<tr>
+							<td width="15%"><img src="https://img.advice.co.th/images_nas/advice/oneweb/assets/images/icon/29-streamer.svg" style="height:20px;"></td>
+							<td width="80%" style="text-align: left;padding-left: 10px;">STREAMERS</td>
+							<td align="right"><img src="themes/home/icon/icon_menu/icon_06.png" /></td>
+						</tr>
+					</table>
+					<ul id="kk01741"> <li class="abc menu-sub-categoty-2" id="dd28" style="width:240px;">
+										<div style="width: 220px; float:left; "><div style="width: 220px; float:left; ">
+							<a title="Video Capture" href="index.php/home/get_menu/category/01741"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Video Capture</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Green Screen" href="index.php/home/get_menu/category/01738"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Green Screen</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Stream Deck" href="index.php/home/get_menu/category/01828"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Stream Deck</span></div>
+							</a>
+						</div></div></ul>
+		</li><li class="abd" onmouseover="$('#kk01344').css('margin-top','-65px');  " style="">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0" >
+						<tr>
+							<td width="15%"><img src="https://img.advice.co.th/images_nas/advice/oneweb/assets/images/icon/21-camera.svg" style="height:20px;"></td>
+							<td width="80%" style="text-align: left;padding-left: 10px;">WEBCAM / CAMERA / CONFERENCE</td>
+							<td align="right"><img src="themes/home/icon/icon_menu/icon_06.png" /></td>
+						</tr>
+					</table>
+					<ul id="kk01344"> <li class="abc menu-sub-categoty-2" id="dd22" style="width:240px;">
+										<div style="width: 220px; float:left; "><div style="width: 220px; float:left; ">
+							<a title="Car Camera" href="index.php/home/get_menu/category/01344"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Car Camera</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Webcam" href="index.php/home/get_menu/category/00037"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Webcam</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Conference Cam" href="index.php/home/get_menu/category/01740"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Conference Cam</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Microphone Conference" href="index.php/home/get_menu/category/01953"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Microphone Conference</span></div>
+							</a>
+						</div></div></ul>
+		</li><li class="abd" onmouseover="$('#kk00102').css('margin-top','-65px');  " style="">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0" >
+						<tr>
+							<td width="15%"><img src="https://img.advice.co.th/images_nas/advice/oneweb/assets/images/icon/14-projector.svg" style="height:20px;"></td>
+							<td width="80%" style="text-align: left;padding-left: 10px;">PROJECTOR / PRESENTATION TOOLS</td>
+							<td align="right"><img src="themes/home/icon/icon_menu/icon_06.png" /></td>
+						</tr>
+					</table>
+					<ul id="kk00102"> <li class="abc menu-sub-categoty-2" id="dd15" style="width:240px;">
+										<div style="width: 220px; float:left; "><div style="width: 220px; float:left; ">
+							<a title="Projector" href="index.php/home/get_menu/category/00102"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Projector</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Screen & Accessories" href="index.php/home/get_menu/category/01556"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Screen & Accessories</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Visualizer" href="index.php/home/get_menu/category/01421"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Visualizer</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Interactive Board" href="index.php/home/get_menu/category/01555"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Interactive Board</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Digital Signage" href="index.php/home/get_menu/category/01963"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Digital Signage</span></div>
+							</a>
+						</div></div></ul>
+		</li><li class="abd" onmouseover="$('#kk00872').css('margin-top','-65px');  " style="">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0" >
+						<tr>
+							<td width="15%"><img src="https://img.advice.co.th/images_nas/advice/oneweb/assets/images/icon/06-accessories.svg" style="height:20px;"></td>
+							<td width="80%" style="text-align: left;padding-left: 10px;">ACCESSORIES</td>
+							<td align="right"><img src="themes/home/icon/icon_menu/icon_06.png" /></td>
+						</tr>
+					</table>
+					<ul id="kk00872"> <li class="abc menu-sub-categoty-2" id="dd7" style="width:240px;">
+										<div style="width: 220px; float:left; "><div style="width: 220px; float:left; ">
+							<a title="Cable" href="index.php/home/get_menu/category/00872"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Cable</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Cleaning & Protection" href="index.php/home/get_menu/category/01338"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Cleaning & Protection</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="DVD & CD Accessories" href="index.php/home/get_menu/category/01578"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">DVD & CD Accessories</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Power Bar / ปลั๊กสนาม" href="index.php/home/get_menu/category/01889"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Power Bar / ปลั๊กสนาม</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Other Accessories" href="index.php/home/get_menu/category/01581"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Other Accessories</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="USB HUB / Converter" href="index.php/home/get_menu/category/01975"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">USB HUB / Converter</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Splitter" href="index.php/home/get_menu/category/01977"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Splitter</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Plate / Converter" href="index.php/home/get_menu/category/01979"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Plate / Converter</span></div>
+							</a>
+						</div></div></ul>
+		</li><li class="abd" onmouseover="$('#kk01573').css('margin-top','-65px');  " style="">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0" >
+						<tr>
+							<td width="15%"><img src="https://img.advice.co.th/images_nas/advice/oneweb/assets/images/icon/09-ups.svg" style="height:20px;"></td>
+							<td width="80%" style="text-align: left;padding-left: 10px;">UPS</td>
+							<td align="right"><img src="themes/home/icon/icon_menu/icon_06.png" /></td>
+						</tr>
+					</table>
+					<ul id="kk01573"> <li class="abc menu-sub-categoty-2" id="dd10" style="width:240px;">
+										<div style="width: 220px; float:left; "><div style="width: 220px; float:left; ">
+							<a title="UPS (เครื่องสำรองไฟ)" href="index.php/home/get_menu/category/01573"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">UPS (เครื่องสำรองไฟ)</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="DC Power Backup" href="index.php/home/get_menu/category/01574"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">DC Power Backup</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Stabilizer เครื่องปรับแรงดันไฟฟ้า" href="index.php/home/get_menu/category/01575"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Stabilizer เครื่องปรับแรงดันไฟฟ้า</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Battery for UPS" href="index.php/home/get_menu/category/01576"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Battery for UPS</span></div>
+							</a>
+						</div></div></ul>
+		</li><li class="abd" onmouseover="$('#kk02014').css('margin-top','-65px');  " style="">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0" >
+						<tr>
+							<td width="15%"><img src="https://img.advice.co.th/images_nas/advice/oneweb/assets/images/icon/solar-cell-icon.png" style="height:20px;"></td>
+							<td width="80%" style="text-align: left;padding-left: 10px;">SOLAR CELL</td>
+							<td align="right"><img src="themes/home/icon/icon_menu/icon_06.png" /></td>
+						</tr>
+					</table>
+					<ul id="kk02014"> <li class="abc menu-sub-categoty-2" id="dd41" style="width:240px;">
+										<div style="width: 220px; float:left; "><div style="width: 220px; float:left; ">
+							<a title="Solar Cell Panel" href="index.php/home/get_menu/category/02014"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Solar Cell Panel</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Solar Cell Cable" href="index.php/home/get_menu/category/02015"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Solar Cell Cable</span></div>
+							</a>
+						</div></div></ul>
+		</li><li class="abd" onmouseover="$('#kk01763').css('margin-top','-65px');  " style="">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0" >
+						<tr>
+							<td width="15%"><img src="https://img.advice.co.th/images_nas/advice/oneweb/assets/images/icon/11-printer.svg" style="height:20px;"></td>
+							<td width="80%" style="text-align: left;padding-left: 10px;">PRINTER / SCANNER / FAX</td>
+							<td align="right"><img src="themes/home/icon/icon_menu/icon_06.png" /></td>
+						</tr>
+					</table>
+					<ul id="kk01763"> <li class="abc menu-sub-categoty-2" id="dd12" style="width:240px;">
+										<div style="width: 220px; float:left; "><div style="width: 220px; float:left; ">
+							<a title="Inkjet All in One" href="index.php/home/get_menu/category/01763"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Inkjet All in One</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Inkjet Printer" href="index.php/home/get_menu/category/01394"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Inkjet Printer</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Laser Printer" href="index.php/home/get_menu/category/01395"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Laser Printer</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Laser Multifunction" href="index.php/home/get_menu/category/01764"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Laser Multifunction</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Dot Matrix Printer" href="index.php/home/get_menu/category/01396"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Dot Matrix Printer</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Scanner / FAX" href="index.php/home/get_menu/category/01557"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Scanner / FAX</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Barcode Printer" href="index.php/home/get_menu/category/01587"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Barcode Printer</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Slip Printer" href="index.php/home/get_menu/category/01711"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Slip Printer</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Label Printer" href="index.php/home/get_menu/category/01697"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Label Printer</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Passbook Printer" href="index.php/home/get_menu/category/01710"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Passbook Printer</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="3D Printer & Sublimation" href="index.php/home/get_menu/category/02008"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">3D Printer & Sublimation</span></div>
+							</a>
+						</div></div></ul>
+		</li><li class="abd" onmouseover="$('#kk01586').css('margin-top','-65px');  " style="">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0" >
+						<tr>
+							<td width="15%"><img src="https://img.advice.co.th/images_nas/advice/oneweb/assets/images/icon/15-pow.svg" style="height:20px;"></td>
+							<td width="80%" style="text-align: left;padding-left: 10px;">SCANNER BARCODE & POS</td>
+							<td align="right"><img src="themes/home/icon/icon_menu/icon_06.png" /></td>
+						</tr>
+					</table>
+					<ul id="kk01586"> <li class="abc menu-sub-categoty-2" id="dd16" style="width:240px;">
+										<div style="width: 220px; float:left; "><div style="width: 220px; float:left; ">
+							<a title="Barcode Scanner" href="index.php/home/get_menu/category/01586"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Barcode Scanner</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Cash Drawer" href="index.php/home/get_menu/category/01589"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Cash Drawer</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Set Pos" href="index.php/home/get_menu/category/01958"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Set Pos</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="POS Accessoires" href="index.php/home/get_menu/category/01591"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">POS Accessoires</span></div>
+							</a>
+						</div></div></ul>
+		</li><li class="abd" onmouseover="$('#kk00115').css('margin-top','-65px');  " style="">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0" >
+						<tr>
+							<td width="15%"><img src="https://img.advice.co.th/images_nas/advice/oneweb/assets/images/icon/12-ink.svg" style="height:20px;"></td>
+							<td width="80%" style="text-align: left;padding-left: 10px;">INK & HEAD / TONER / RIBBON</td>
+							<td align="right"><img src="themes/home/icon/icon_menu/icon_06.png" /></td>
+						</tr>
+					</table>
+					<ul id="kk00115"> <li class="abc menu-sub-categoty-2" id="dd13" style="width:240px;">
+										<div style="width: 220px; float:left; "><div style="width: 220px; float:left; ">
+							<a title="Toner Original" href="index.php/home/get_menu/category/00115"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Toner Original</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Toner Remanu & Refill" href="index.php/home/get_menu/category/01320"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Toner Remanu & Refill</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Ink Cartridge (ตลับหมึก)" href="index.php/home/get_menu/category/01560"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Ink Cartridge (ตลับหมึก)</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Ink Refill & Tank" href="index.php/home/get_menu/category/01561"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Ink Refill & Tank</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Ribbon & Refill" href="index.php/home/get_menu/category/00035"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Ribbon & Refill</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Ribbon Barcode" href="index.php/home/get_menu/category/01713"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Ribbon Barcode</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Print Head" href="index.php/home/get_menu/category/01761"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Print Head</span></div>
+							</a>
+						</div></div></ul>
+		</li><li class="abd" onmouseover="$('#kk01782').css('margin-top','-65px');  " style="">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0" >
+						<tr>
+							<td width="15%"><img src="https://img.advice.co.th/images_nas/advice/oneweb/assets/images/icon/13-paper.svg" style="height:20px;"></td>
+							<td width="80%" style="text-align: left;padding-left: 10px;">PAPER / STICKER / CASSETTE</td>
+							<td align="right"><img src="themes/home/icon/icon_menu/icon_06.png" /></td>
+						</tr>
+					</table>
+					<ul id="kk01782"> <li class="abc menu-sub-categoty-2" id="dd14" style="width:240px;">
+										<div style="width: 220px; float:left; "><div style="width: 220px; float:left; ">
+							<a title="กระดาษ Photo" href="index.php/home/get_menu/category/01782"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">กระดาษ Photo</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="กระดาษเครื่องคิดเงิน" href="index.php/home/get_menu/category/01720"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">กระดาษเครื่องคิดเงิน</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Paper Thermal" href="index.php/home/get_menu/category/01719"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Paper Thermal</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Sticker Direct Thermal" href="index.php/home/get_menu/category/01721"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Sticker Direct Thermal</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Sticker Barcode (Semi coat)" href="index.php/home/get_menu/category/01723"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Sticker Barcode (Semi coat)</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Cassette" href="index.php/home/get_menu/category/01708"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Cassette</span></div>
+							</a>
+						</div></div></ul>
+		</li><li class="abd" onmouseover="$('#kk01424').css('margin-top','-65px');  " style="">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0" >
+						<tr>
+							<td width="15%"><img src="https://img.advice.co.th/images_nas/advice/oneweb/assets/images/icon/16-software.svg" style="height:20px;"></td>
+							<td width="80%" style="text-align: left;padding-left: 10px;">SOFTWARE</td>
+							<td align="right"><img src="themes/home/icon/icon_menu/icon_06.png" /></td>
+						</tr>
+					</table>
+					<ul id="kk01424"> <li class="abc menu-sub-categoty-2" id="dd17" style="width:240px;">
+										<div style="width: 220px; float:left; "><div style="width: 220px; float:left; ">
+							<a title="Microsoft Office" href="index.php/home/get_menu/category/01424"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Microsoft Office</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Microsoft Windows" href="index.php/home/get_menu/category/01425"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Microsoft Windows</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Antivirus / Internet Security" href="index.php/home/get_menu/category/01554"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Antivirus / Internet Security</span></div>
+							</a>
+						</div></div></ul>
+		</li><li class="abd" onmouseover="$('#kk01858').css('margin-top','-65px');  " style="">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0" >
+						<tr>
+							<td width="15%"><img src="https://img.advice.co.th/images_nas/advice/oneweb/assets/images/icon/22-cctv.svg" style="height:20px;"></td>
+							<td width="80%" style="text-align: left;padding-left: 10px;">CCTV & SECURITY</td>
+							<td align="right"><img src="themes/home/icon/icon_menu/icon_06.png" /></td>
+						</tr>
+					</table>
+					<ul id="kk01858"> <li class="abc menu-sub-categoty-2" id="dd23" style="width:240px;">
+										<div style="width: 220px; float:left; "><div style="width: 220px; float:left; ">
+							<a title="กล้อง IP Camera" href="index.php/home/get_menu/category/01858"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">กล้อง IP Camera</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="กล้อง Smart IP Camera" href="index.php/home/get_menu/category/01859"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">กล้อง Smart IP Camera</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="กล้อง Bullet Camera" href="index.php/home/get_menu/category/01856"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">กล้อง Bullet Camera</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="กล้อง Dome Camera" href="index.php/home/get_menu/category/01857"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">กล้อง Dome Camera</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="SET กล้องวงจรปิด" href="index.php/home/get_menu/category/01536"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">SET กล้องวงจรปิด</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="เครื่องบันทึก DVR / NVR" href="index.php/home/get_menu/category/01855"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">เครื่องบันทึก DVR / NVR</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="CCTV Accessories" href="index.php/home/get_menu/category/00965"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">CCTV Accessories</span></div>
+							</a>
+						</div></div></ul>
+		</li><li class="abd" onmouseover="$('#kk01945').css('margin-top','-65px');  " style="">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0" >
+						<tr>
+							<td width="15%"><img src="https://img.advice.co.th/images_nas/advice/oneweb/assets/images/icon/10-network.svg" style="height:20px;"></td>
+							<td width="80%" style="text-align: left;padding-left: 10px;">NETWORK (Wireless)</td>
+							<td align="right"><img src="themes/home/icon/icon_menu/icon_06.png" /></td>
+						</tr>
+					</table>
+					<ul id="kk01945"> <li class="abc menu-sub-categoty-2" id="dd29" style="width:240px;">
+										<div style="width: 220px; float:left; "><div style="width: 220px; float:left; ">
+							<a title="4G/5G Router / Mifi / AirCard" href="index.php/home/get_menu/category/01945"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">4G/5G Router / Mifi / AirCard</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Router" href="index.php/home/get_menu/category/01794"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Router</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Access Point" href="index.php/home/get_menu/category/01806"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Access Point</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Range Extender & Mesh WiFI" href="index.php/home/get_menu/category/01816"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Range Extender & Mesh WiFI</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Wireless USB Adapter" href="index.php/home/get_menu/category/01808"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Wireless USB Adapter</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Wireless PCIe Adapter" href="index.php/home/get_menu/category/01862"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Wireless PCIe Adapter</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="VPN / Gateway Router / Load Balance" href="index.php/home/get_menu/category/01960"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">VPN / Gateway Router / Load Balance</span></div>
+							</a>
+						</div></div></ul>
+		</li><li class="abd" onmouseover="$('#kk01792').css('margin-top','-65px');  " style="">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0" >
+						<tr>
+							<td width="15%"><img src="https://img.advice.co.th/images_nas/advice/oneweb/assets/images/icon/10-network.svg" style="height:20px;"></td>
+							<td width="80%" style="text-align: left;padding-left: 10px;">NETWORK (Wire)</td>
+							<td align="right"><img src="themes/home/icon/icon_menu/icon_06.png" /></td>
+						</tr>
+					</table>
+					<ul id="kk01792"> <li class="abc menu-sub-categoty-2" id="dd30" style="width:240px;">
+										<div style="width: 220px; float:left; "><div style="width: 220px; float:left; ">
+							<a title="Switching HUB" href="index.php/home/get_menu/category/01792"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Switching HUB</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Switching HUB Managed" href="index.php/home/get_menu/category/01823"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Switching HUB Managed</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="LAN Card" href="index.php/home/get_menu/category/01791"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">LAN Card</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="POE Adapter & Cable POE Passive" href="index.php/home/get_menu/category/02010"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">POE Adapter & Cable POE Passive</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Wireless Antenna & Surge Protector" href="index.php/home/get_menu/category/02011"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Wireless Antenna & Surge Protector</span></div>
+							</a>
+						</div></div></ul>
+		</li><li class="abd" onmouseover="$('#kk01783').css('margin-top','-65px');  " style="">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0" >
+						<tr>
+							<td width="15%"><img src="https://img.advice.co.th/images_nas/advice/oneweb/assets/images/icon/10-network.svg" style="height:20px;"></td>
+							<td width="80%" style="text-align: left;padding-left: 10px;">NETWORK (Accessories)</td>
+							<td align="right"><img src="themes/home/icon/icon_menu/icon_06.png" /></td>
+						</tr>
+					</table>
+					<ul id="kk01783"> <li class="abc menu-sub-categoty-2" id="dd31" style="width:240px;">
+										<div style="width: 220px; float:left; "><div style="width: 220px; float:left; ">
+							<a title="Cable & Marker" href="index.php/home/get_menu/category/01783"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Cable & Marker</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Rack" href="index.php/home/get_menu/category/01815"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Rack</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Tools" href="index.php/home/get_menu/category/01789"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Tools</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Jack / Plug / Boots / Place" href="index.php/home/get_menu/category/01978"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Jack / Plug / Boots / Place</span></div>
+							</a>
+						</div></div></ul>
+		</li><li class="abd" onmouseover="$('#kk01787').css('margin-top','-65px');  " style="">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0" >
+						<tr>
+							<td width="15%"><img src="https://img.advice.co.th/images_nas/advice/oneweb/assets/images/icon/10-network.svg" style="height:20px;"></td>
+							<td width="80%" style="text-align: left;padding-left: 10px;">NETWORK (FiberOptic)</td>
+							<td align="right"><img src="themes/home/icon/icon_menu/icon_06.png" /></td>
+						</tr>
+					</table>
+					<ul id="kk01787"> <li class="abc menu-sub-categoty-2" id="dd32" style="width:240px;">
+										<div style="width: 220px; float:left; "><div style="width: 220px; float:left; ">
+							<a title="Cable Fiber Optic" href="index.php/home/get_menu/category/01787"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Cable Fiber Optic</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Fiber Optic Accessories" href="index.php/home/get_menu/category/01788"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Fiber Optic Accessories</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="Media Converter" href="index.php/home/get_menu/category/01796"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">Media Converter</span></div>
+							</a>
+						</div></div></ul>
+		</li><li class="abd" onmouseover="$('#kk01563').css('margin-top','-65px');  " style="">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0" >
+						<tr>
+							<td width="15%"><img src="https://img.advice.co.th/images_nas/advice/oneweb/assets/images/icon/23-cunsumer.svg" style="height:20px;"></td>
+							<td width="80%" style="text-align: left;padding-left: 10px;">CONSUMER ELECTRONICS</td>
+							<td align="right"><img src="themes/home/icon/icon_menu/icon_06.png" /></td>
+						</tr>
+					</table>
+					<ul id="kk01563"> <li class="abc menu-sub-categoty-2" id="dd24" style="width:240px;">
+										<div style="width: 220px; float:left; "><div style="width: 220px; float:left; ">
+							<a title="LED TV" href="index.php/home/get_menu/category/01563"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">LED TV</span></div>
+							</a>
+						</div><div style="width: 220px; float:left; ">
+							<a title="จักรเย็บผ้า" href="index.php/home/get_menu/category/01687"><div class="ahove" style="">
+								<span class="sp_menu" style="margin-left: 20px; ">จักรเย็บผ้า</span></div>
+							</a>
+						</div> </div>
+1		</div>
+		<div class="dropdown w-nav3">
+			<button class="dropbtn">วิธีสั่งซื้อ/ชำระเงิน <i class="fa fa-caret-down"></i></button>
+			<div class="dropdown-content ml-75">
+				<a aria-label="How to order detail" href="index.php/home/get_menu/buying_info">วิธีการสั่งซื้อ</a>
+				<a aria-label="How to pay detail" href="index.php/home/payment/payment_info">วิธีการชำระเงิน</a>
+			</div>
+		</div>
+		<a class="w-nav menu-a" aria-label="Paid detail" href="index.php/home/get_menu/paid">แจ้งชำระเงิน</a>
+		<a class="w-nav menu-a" aria-label="Claim detail" href="index.php/home/get_menu/waranty_info">เคลมสินค้า</a>
+		<a class="w-nav menu-a" aria-label="Feedback detail" href="index.php/home/feedback">ติชม</a>
+		<a class="w-nav menu-a" aria-label="Contact us detail" href="index.php/home/get_menu/contact_us">ติดต่อเรา</a>
+	</div>
+	</div>
+</div>					<div id="cookie" class="modal header" style="z-index:99999; margin: auto;" >
+					<h2 style="text-align: left;">การตั้งค่าความเป็นส่วนตัว</h2>
+					<p>ท่านสามารถเลือกตั้งค่าคุกกี้โดยเปิด/ปิดคุกกี้แต่ละประเภทได้ ยกเว้น คุกกี้ที่จำเป็น (Strictly Necessary Cookies) ดังนี้ ข้อมูลเพิ่มเติม</p>
+					<hr>
+					<h2 style="text-align: left;">จัดการการกำหนดลักษณะความยินยอม</h2>
+					<div>
+						<div>
+							<div>
+								<h3>คุกกี้ที่จำเป็น (Strictly Necessary Cookies)</h3>
+							</div>
+						</div>
+						<div>
+							<p>คุกกี้ประเภทนี้มีความจำเป็นต่อการทำงานของเว็บไซต์ เพื่อให้เว็บไซต์สามารถทำงานได้เป็นปกติ มีความปลอดภัย และทำให้ท่านสามารถเข้าใช้เว็บไซต์ได้ เช่น การ log in เข้าสู่เว็บไซต์ การยืนยันตัวตน ทั้งนี้ ท่านไม่สามารถปิดการใช้งานของคุกกี้ประเภทนี้ผ่านระบบของเว็บไซต์ของเราได้</p>
+						</div>
+						<div class="row">
+							<div style="text-align:right; color: #007bff;">
+								เปิดใช้งานตลอดเวลา :
+
+							</div>
+						</div>
+						<div class="row">
+							<a id="Strictly" style="font-size: 12px; cursor: pointer; color: ##999393;">รายละเอียดคุกกี้</a>
+							<ul id="StrictlyPanel" style="display: none;">
+								<li>lang (headdaddy.com)</li>
+								<li>CookieMaster (headdaddy.com)</li>
+							</ul>
+						</div>
+					</div>
+					<div>
+						<div class="row">
+							<div>
+								<h3>คุกกี้เพื่อการวิเคราะห์ (Analytic Cookies)</h3>
+							</div>
+						</div>
+						<div>
+							<p>คุกกี้ประเภทนี้จะเก็บข้อมูลการใช้งานเว็บไซต์ของท่าน เพื่อให้เราสามารถวัดผล ประเมิน ปรับปรุง และพัฒนาเนื้อหาสินค้า/บริการและเว็บไซต์ของเราเพื่อเพิ่มประสบการณ์ที่ดีในการใช้เว็บไซต์ของท่าน ทั้งนี้ หากท่านไม่ยินยอมให้เราใช้คุกกี้ประเภทนี้ เราจะไม่สามารถวัดผล ประเมิน และพัฒนาเว็บไซต์ได้</p>
+						</div>
+						<div class="row">
+							<div style="text-align:right; color: #007bff;">
+								<span>OFF</span>
+								<label class="switch">
+									<input type="checkbox" id="set-Analytic" checked class="switch-input">
+									<span class="switch-label" data-on="On" data-off="Off"></span>
+									<span class="switch-handle"></span>
+								</label>
+								<span>ON</span>
+							</div>
+						</div>
+						<a id="Analytic" style="font-size: 12px; cursor: pointer; color: ##999393;">รายละเอียดคุกกี้</a>
+						<ul id="AnalyticPanel" style="display: none;">
+							<li>_ga (Google Analytics)</li>
+							<li>_gid (Google Analytics</li>
+							<li>_gat_gtag_UA_28871641_1 (Google Analytics)</li>
+						</ul>
+					</div>
+					<div>
+						<h3>คุกกี้เพื่อปรับเนื้อหาให้เข้ากับกลุ่มเป้าหมาย (Targeting Cookies)</h3>
+						<p>คุกกี้ประเภทนี้จะเก็บข้อมูลต่าง ๆ ซึ่งอาจรวมถึงข้อมูลส่วนบุคคลของท่านและสร้างโปรไฟล์เกี่ยวกับตัวท่าน เพื่อให้เราสามารถวิเคราะห์และนำเสนอเนื้อหา สินค้า/บริการ และ/หรือ โฆษณาที่เหมาะสมกับความสนใจของท่านได้ ทั้งนี้ หากท่านไม่ยินยอมให้เราใช้คุกกี้ประเภทนี้ ท่านอาจได้รับข้อมูลและโฆษณาทั่วไปที่ไม่ตรงกับความสนใจของท่าน</p>
+						<div class="row">
+							<div style="text-align:right; color: #007bff;">
+								<span>OFF</span>
+								<label class="switch">
+									<input type="checkbox" id="set-Advertisement" checked class="switch-input">
+									<span class="switch-label" data-on="On" data-off="Off"></span>
+									<span class="switch-handle"></span>
+								</label>
+								<span>ON</span>
+							</div>
+						</div>
+						<a id="Targeting" style="font-size: 12px; cursor: pointer; color: ##999393;">รายละเอียดคุกกี้</a>
+						<ul id="TargetingPanel" style="display: none;">
+							<li>_fbp (facebook)</li>
+							<li>fr (facebook)</li>
+							<li>__cf_bm (useinsider)</li>
+							<li>cid (ctnsnet)</li>
+							<li>gid_CAESEMeuJG4n53eGiYtwOVeALHM (ctnsnet)</li>
+							<li>IDE (doubleclick.net)</li>
+							<li>U (adsymptotic.com</li>
+							<li>lidc (linkedin.com)</li>
+							<li>li_sugr (linkedin.com)</li>
+							<li>bid (consentag.eu)</li>
+							<li>ts (creativecdn.com)</li>
+							<li>u (creativecdn.com)</li>
+						</ul>
+
+					</div>
+					<hr>
+					<div style="width:100%; text-align:right;">
+						<span class="btn-cookie" onclick="SettingCookie('CookieMaster')" >ยืนยัน</span>
+						<span class="btn-cookie btn-red" onclick="GetModalCookie('close')"> ปิด</span>
+					</div>
+				</div>
+
+				<div class="content_center">
+
+					<div class="index_main">
+	 	<div class="cat_left">
+		            				<div class="cat_box_1"><span class="cat_box_txt">ทั้งหมด</span>
+									</div>
+				<div class="cat_box_line"></div>
+				<div class="cat_box_3">
+					<table width="100%" border="0" cellspacing="2" cellpadding="2">
+											</table>
+				</div>
+
+	</div>
+	<div class="cat_right">
+
+						<div class="cat_htitle"><span style="display: none;">select pri.menu_group_id,pri.code,pri.Product,pri.warranty,pri.First  ,recommend.rec_discount ,recommend.note as rec_note
+				,'' as pic_had,'' as path,'' as pic_type,recommend.imp,'' as Note ,recommend.rec_srp /*,if(recommend.rec_name='',IF( recommend.\`rec_product\` =  '', pri.Product,pri.Product),recommend.rec_name) AS Product*/   ,pri.menu_id
+				FROM   advice_co_th.price pri
+				 left join system_44352001.menu_list ml on pri.menu_id  = ml.menu_id
+				left join system_44352001.recommend on pri.code = recommend.rec_code
+				WHERE pri.menu_group_id not in ('19') and pri.online_only='T' and ((recommend.rec_discount > 0  )
+				or pri.code like 'D%'
+				)
+				  and pri.menu_dtl_id = '027402'
+				 and   (pri.code = '9070'
+								OR  pri.Product LIKE '%9070%'
+								or ml.menu_name LIKE '%9070%'
+								)        GROUP BY pri.code </span>ผลการค้นหา
+				9070</div>
+				พบสินค้า <span id="id_search">Loading..</span> รายการ  <br>	</div>
+</div>
+
+<script>
+	$(document).ready(function() {
+					$("#id_search").html('0');
+				//$('.ui-tooltip-content').html('');
+		$('[data-toggle="tooltip"]').tooltip({
+			content: function () {
+				return $(this).prop('title');
+			},
+			position: {
+				// my: "center bottom-20", at: "center top",
+				my: "center top+10", at: "center bottom",
+				using: function( position, feedback ) {
+				$( this ).css( position );
+				$( "<div>" )
+					.addClass( "arrow" )
+					.addClass( feedback.vertical )
+					.addClass( feedback.horizontal )
+					.appendTo( this );
+				}
+			}
+		});
+	});
+
+
+</script>
+<style>
+	.ui-tooltip, .arrow:after {
+		background: black;
+		border: 0px solid black;
+	}
+	.ui-tooltip {
+		padding: 1px;
+		color: white;
+		border-radius: 10px;
+	}
+	.arrow {
+		width: 70px;
+		height: 16px;
+		overflow: hidden;
+		position: absolute;
+		left: 50%;
+		margin-left: -35px;
+		bottom: -16px;
+	}
+	.arrow.top {
+		top: -16px;
+		bottom: auto;
+	}
+	.arrow.left {
+		left: 20%;
+	}
+	.arrow:after {
+		content: "";
+		position: absolute;
+		left: 20px;
+		top: -20px;
+		width: 25px;
+		height: 25px;
+		-webkit-transform: rotate(45deg);
+		-ms-transform: rotate(45deg);
+		transform: rotate(45deg);
+	}
+	.arrow.top:after {
+		bottom: -20px;
+		top: auto;
+	}
+	/*.ui-tooltip{
+	display: block;
+	width:220px;
+	height:50px;
+	border:0;
+	background: rgb(248, 252, 156);
+	font-size:13px;
+	}*/
+	#tooltip{
+	position:absolute;
+	border:0px solid #333;
+	background:#f7f5d1;
+padding:10px;
+z-index:100;
+color:#000023;
+display:none;
+-webkit-border-radius:3px;
+-moz-border-radius:3px;
+border-radius:3px;
+}
+
+</style>
+					<div class="foot-cookie" style="display:none;">
+						<div class="foot-cookie-con">
+							<span class="p-cookie-c">Headdaddy.com ใช้คุกกี้บนเว็บไซต์นี้เพื่อการบริหารเว็บไซต์ และเพิ่มประสิทธิภาพการใช้งานของท่าน <a href="index.php/cookies-policy" style="color:#FFFFFF;text-decoration:underline;" target="_bank">(เรียนรู้เพิ่มเติม) </a></span>
+							<span class="p-cookie-c"> <span style="color: #ffffff;"  onclick="GetModalCookie('show')"><u>การตั้งค่าคุกกี้</u></span></span>
+							<span><button type="button" onclick="setCookie('CookieMaster')" class="btn btn-default btn-sm btn-frim">ยอมรับทั้งหมด</button></span>
+						</div>
+			</div>
+
+        </div>
+
+        <div class="modal fade" id="alert-etax" tabindex="-1" style="max-width: 445px; z-index: 99999">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-body">
+				<div id="verify-gen">
+					<div class="row justify-content-center">
+						<div class='col-12 text-center'>
+							<h4 class="m-0">ยืนยันข้อมูลในการรับใบกำกับภาษีอิเล็กทรอนิกส์</h4>
+						</div>
+					</div>
+					<div class='row mt-0 show_verify'>
+		<div class='col-11 p-0'>
+			<div class='row mt-2'>
+				<div class='col-12 p-0'>
+					<p class='m-0'>เนื่องจากทางบริษัทฯ ได้ดำเนินการจัดทำและส่งมอบใบเสร็จรับเงิน/ใบกำกับภาษีอิเล็กทรอนิกส์ (E-Receipt/Tax Invoice) โปรดตอบรับและยืนยันอีเมล ด้านล่าง เพื่อใช้ไนการรับใบเสร็จรับเงิน/ใบกำกับภาษีอิเล็กทรอนิกส์ (E-Receipt/Tax Invoice)</p>
+				</div>
+				<div class='col-12 p-0'>
+					<div class='position-relative' style='padding-right: 14px;'>
+						<input type='email' class='linput etax_email w-100' id='etax_email-modal' value=''>
+					</div>
+				</div>
+				<div class='col-12 p-0'>
+				<button type='button' class='btn btn-primary w-100' onclick="verify_etax('gen_otp', 'modal');">ยืนยันข้อมูล</button>
+			</div>
+
+			</div>
+		</div>
+	</div>				</div>
+				<div id="verify-otp" class="d-none">
+					<div class="row">
+						<div class='col-12 text-center'>
+							<h4 class="m-0">ยืนยันอีเมลของคุณ</h4>
+						</div>
+						<div class='col-12 text-center'>
+            <p class="m-0">โปรดตรวจสอบอีเมลของคุณ ระบบได้ส่งรหัสยืนยัน 6 หลักไปที่ : </p>
+							<p class="m-0 color-blue" id="mail-send"></p>
+						</div>
+						<div class='col-12'>
+							<form class="form-horizontal m-0" id="vertfy_form">
+								<div class="form-group m-0">
+									<input type="text" class="linput w-100" id="vertfy_otp" maxlength="6" placeholder="กรอกตัวเลขยืนยัน 6 หลัก" onkeypress="return isNumber(event);" aria-describedby="validation-vertfy_otp">
+									<div class="row">
+										<div class='col-6 p-0'>
+											<div id="validation-vertfy_otp" class="invalid-feedback">รหัสยืนยันไม่ถูกต้อง</div>
+										</div>
+										<div class='col-6 p-0 text-right'>
+											<u class="text-right m-0 pointer" onclick="verify_etax('gen_otp');">ส่งรหัสยืนยันใหม่</u>
+										</div>
+									</div>
+								</div>
+							</form>
+						</div>
+						<div class='col-12'>
+							<div class='col-12 p-0 mt-2 justify-content-center'>
+								<button type='button' class='btn btn-primary w-100' onclick="verify_etax('send_otp');">ยืนยันข้อมูล</button>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<link href="themes/home/css/footer.css" rel="stylesheet" type="text/css" />
+<script id='load-norobot'></script>
+<input type="hidden" id="mem_mail" value="">
+<div class="section aey_hidden_page_info">
+<div class="footer">
+<div class="footer_copy" style=" height:300px;">
+<div class="foo_1">
+
+<div class="footer_main_yok">
+<table width="100%" border="0" cellspacing="1" cellpadding="1">
+  <tr>
+    <td><strong style="margin-left:8px; color:#000; border-bottom:1px solid #2E88BB;">เกี่ยวกับเรา</strong></td>
+    <td><strong style="margin-left:8px; color:#000; border-bottom:1px solid #2E88BB;">การสั่งซื้อ</strong></td>
+    <td><strong style="margin-left:20px; color:#000; border-bottom:1px solid #2E88BB;">การจัดส่งสินค้า</strong></td>
+    <td><strong style="margin-left:50px; color:#000; border-bottom:1px solid #2E88BB;">พบกับเราได้ที่</strong></td>
+     <td><strong style="margin-left:50px; color:#000; border-bottom:1px solid #2E88BB;">ตรวจสอบโดย</strong></td>
+    </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="25%"><a href="index.php/home/get_menu/history_info"><span style="margin-left:8px; float:left;">ประวัติ</span></a></td>
+    <td width="25%"><a href="index.php/home/get_menu/buying_info"><span style="margin-left:8px; float:left;">วิธีการสั่งซื้อสินค้า</span></a></td>
+    <td width="45%"><a href="index.php/home/get_menu/shipping"><span style="margin-left:20px; float:left;">วิธีการจัดส่งสินค้า</span></a></td>
+    <td width="15%"><a href="https://facebook.com/Headdaddy/" target="_blank"><div style="width:100px; height:20px; float:left; margin-left:50px;"><img src="themes/shop/bg/icon/fanpage.png" alt="Fanpage"></div></a></td>
+     <td align="center" rowspan="3" ><img src="themes/home/img/dbd.png" alt="DBD Registered" style="margin-left:50px; color:#000; float:left;"/></td>
+  </tr>
+  <tr>
+    <td><a href="index.php/home/feedback"><span style="margin-left:8px; float:left;">เสนอแนะ ติชม</span></a></td>
+    <td><a href="index.php/home/payment/payment_info"><span style="margin-left:8px; float:left;">วีธีการชำระเงิน</span></a></td>
+    <td><a href="index.php/policy/normal_cod" ><span style="margin-left:20px; float:left;">วิธีการจัดส่งสินค้า (COD)</span></a></td>
+       <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td><a href="index.php/home/get_menu/contact_us"><span style="margin-left:8px; float:left;">ติดต่อเรา</span></a></td>
+    <td><a href="index.php/home/get_menu/waranty_info"><span style="margin-left:8px; float:left;">การรับประกันสินค้า</span></a></td>
+          <td><a href="index.php/policy/fastdelivery" ><span style="margin-left:20px; float:left;">วิธีการจัดส่งสินค้า (fast3)</span></a></td>
+        <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+    <tr>
+   	<td><a href="index.php/home/we_sale/"><span style="margin-left:8px; float:left;">เสนอขายสินค้า</span></a></td>
+    <td>&nbsp;</td>
+    <td><a href="index.php/policy/warp2"  ><span style="margin-left:20px; float:left;">วิธีการจัดส่งสินค้า (warp2)</span></a></td>
+
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+   <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td><a href="index.php/policy/fast5"  ><span style="margin-left:20px; float:left;">วิธีการจัดส่งสินค้า (fast5)</span></a></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+   </tr>
+    <tr>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td><a href="index.php/policy/fast9am"  ><span style="margin-left:20px; float:left;">วิธีการจัดส่งสินค้า (fast9)</span></a></td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+   </tr>
+   <tr>
+   	<td>&nbsp;</td>
+    <td>&nbsp;</td>
+   <td><a href="index.php/policy/cod" target="_blank"><span style="margin-left:20px; float:left;">วิธีการจัดส่งสินค้า (COD fast3)</span></a></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    </tr><tr>
+   	<td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td><a href="index.php/policy/fast20" target="_blank"><span style="margin-left:20px; float:left;">วิธีการจัดส่งสินค้า (ภายในวัน)</span></a></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+   </tr>
+   <tr>
+   	<td>&nbsp;</td>
+    <td>&nbsp;</td>
+	 <td><a href="http://th.ke.rnd.kerrylogistics.com/shipmenttracking/" target="_blank"><span style="margin-left:20px; float:left;">เช็คสถานะการจัดส่ง KERRY</span></a></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+   </tr>
+   <tr>
+   	<td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td><a href="https://dhlecommerce.asia/Portal/Track" target="_blank"><span style="margin-left:20px; float:left;">เช็คสถานะการจัดส่ง DHL</span></a></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+   </tr>
+   <tr>
+   	<td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td><a href="https://teleport.delivery/track?tracking_number=" target="_blank"><span style="margin-left:20px; float:left;">เช็คสถานะการจัดส่ง Teleport</span></a></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+   </tr>
+</table>
+</div>
+
+<div style="width:500px; height:20px; float:left; padding:30px 0 10px 190px;"><strong style="font-size:12px; font-family:Verdana, Geneva, sans-serif;">Copyright &copy; 2014 HeadDaddy. All rights reserved.</strong></div>
+<div style="width:150px; height:30px; float:left; margin:20px 0 0 210px;">
+<input type="hidden" id="is_verify-tax" value="">
+<input type="hidden" id="is_verify-mail">
+<input type="hidden" id="is_verify-order">
+
+</div>
+</div>
+</div>
+</div>
+</div>    </div>
+    </div>
+</div>
+
+	<script>
+	var coupon_temp = '';
+	function check_coupon(coupon){
+		if(coupon && coupon != '' && coupon != coupon_temp){
+			coupon_temp = coupon;
+			$('#form_discount').submit();
+		}else if(coupon == '' && coupon_temp != ''){
+			$("#clear_coupon").val("T");
+			$('#form_discount').submit();
+		}
+	}
+		$(document).ready(function() {
+			$('#is_verify-order').val('');
+			verify_etax('check');
+			$("#Strictly").click(function() {
+				$("#StrictlyPanel").slideToggle("slow");
+			});
+			$("#Analytic").click(function() {
+				$("#AnalyticPanel").slideToggle("slow");
+			});
+			$("#Targeting").click(function() {
+				$("#TargetingPanel").slideToggle("slow");
+			});
+			// $(".btn").click(function() {
+				// $("#cookie").modal('hide');
+			// });
+
+		set_submenu_head();
+		checkCookie();
+			$('.etax-firm').on('click', async function(){
+			let isEtax = $('#is_verify-tax').val();
+			if(!isEmpty(isEtax == 'T')){
+				warningAlert('emod-cancel');
+				$(this).prop('checked', true);
+			} else {
+				warningAlert('emod-mail');
+				$(this).prop('checked', false);
+			}
+		});
+		$('.verify_etax-box').on('click', function(){
+			$('.verify-firm').prop('disabled', ($(this).is(':checked'))? false : true);
+			if($(this).is(':checked')){
+				verify_etax();
+			}
+		});
+		$('#vertfy_otp').on('keyup', function(){
+			if(isEmpty($(this).val())){
+				warningAlert('tax_otp-clear');
+			}
+		});
+	});
+
+	function setCookie(cname) {
+			let exdays = 90;
+			var d = new Date();
+			d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
+			var expires = "expires=" + d.toGMTString();
+			let  arr_cookie =  [{"performance": "T","analytics":"T","advertisement":"T"}];
+			if(cname == 'all'){
+				$.each(arr_cookie, function(key, val) {
+					document.cookie = val + "=" + "T" + ";" + expires + ";path=/";
+				});
+			}else{
+				document.cookie = cname + "=" + JSON.stringify(arr_cookie) + ";" + expires + ";path=/";
+			}
+			$('.foot-cookie').hide();
+		}
+
+		function getCookie(cname) {
+			var name = cname + "=";
+			var decodedCookie = decodeURIComponent(document.cookie);
+			// console.log(decodedCookie);
+			var ca = decodedCookie.split(';');
+			for (var i = 0; i < ca.length; i++) {
+				var c = ca[i];
+				while (c.charAt(0) == ' ') {
+					c = c.substring(1);
+				}
+				if (c.indexOf(name) == 0) {
+					return c.substring(name.length, c.length);
+				}
+			}
+			return "";
+
+		}
+		function SettingCookie(cname){
+			let exdays = 90;
+			var d = new Date();
+			d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
+			var expires = "expires=" + d.toGMTString();
+
+			let val_ana = val_adv = '';
+
+			if($('#set-Analytic').is(':checked')){
+				val_ana  = 'T';
+			}
+			if($('#set-Advertisement').is(':checked')){
+				val_adv = 'T';
+			}
+			let  arr_cookie =  [{"performance": "T","analytics":val_ana,"advertisement":val_adv}];
+			document.cookie = cname + "=" + JSON.stringify(arr_cookie) + ";" + expires + ";path=/";
+			$('.foot-cookie').hide();
+			window.location.reload(true);
+		}
+
+		function GetModalCookie(type=null){
+			if(type == 'close'){
+				$("#cookie").hide();
+			}else{
+				checkCookie();
+				$("#cookie").show();
+			}
+
+		}
+
+		function deleteCookie(name) {
+			document.cookie = name + '=; Path=/; Expires=Thu, 01 Jan 1970 00:00:01 GMT;';
+			window.location.reload(true);
+		}
+
+		function checkCookie() {
+			var CookieMaster = getCookie("CookieMaster");
+			if (CookieMaster || CookieMaster != ''){
+				$('.foot-cookie').hide();
+			} else {
+				$('.foot-cookie').show();
+			}
+			if(CookieMaster){
+				CookieMaster = JSON.parse(CookieMaster);
+				if(CookieMaster[0].advertisement == 'T'){
+					$('#set-Advertisement').attr('checked',true);
+				}else{
+					$('#set-Advertisement').attr('checked',false);
+				}
+
+				if(CookieMaster[0].analytics == 'T'){
+					$('#set-Analytic').attr('checked',true);
+				}else{
+					$('#set-Analytic').attr('checked',false);
+				}
+			}
+		}
+
+	function set_submenu_head() {
+		var m_h = 400;
+		$('.menu-sub-categoty-2').css('height', m_h);
+	}
+
+		let maile = '';
+		let check_e_receipt = '';
+		async function verify_etax(action, val1){
+			let data = [];
+			if(!isEmpty(action)){
+				let gened = $('#mail-send').text();
+				if(action == 'check'){
+					data = await ajax_dlog('etax', { 'action': action, 'tax_id': val1 });
+					check_e_receipt = data.is_etax;
+					if(!isEmpty(data.status == 'success')){
+						verify_etax('success', data.is_etax);
+						$('#is_verify-mail, #etax_email-modal').val(data.is_mail);
+					}
+				} else if(['gen_otp','gen_otp_new'].includes(action)){
+					let noOTP = false;
+					let mail = '';
+					warningAlert('tax_otp-clear');
+					let vmail = $('#is_verify-mail').val().toLowerCase();
+					if(!isEmpty(val1)){
+						mail = $('#etax_email-'+ val1).val();
+					} else if(!isEmpty(gened)){
+						mail = gened;
+					} else {
+						mail = vmail;
+					}
+					mail = mail.toLowerCase();
+					$('#mail-send').text(mail);
+					if(!isEmpty($('#is_verify-tax').val())){
+						if(!isEmpty(vmail)){
+							if(mail == vmail){
+								noOTP = true;
+							}
+						} else if(mail == ''){
+							noOTP = true;
+						}
+					}
+					if(noOTP){
+						data = await ajax_dlog('etax', { 'action': 'send_verify', 'mail': mail });
+						if(!isEmpty(data.status == 'success')){
+							$.msgbox('ยืนยันอีเมลของคุณสำเร็จ', {'type': 'info'});
+							verify_etax('success', data.is_etax);
+							$('#is_verify-order').val(data.is_etax);
+						}
+					} else {
+						data = await ajax_dlog('etax', { 'action': 'gen_otp', 'mail': mail });
+						$('#vertfy_otp').val('');
+						$('#verify-gen').addClass('d-none');
+						$('#verify-otp').removeClass('d-none');
+						$('#alert-etax').modal('show');
+						if(!isEmpty(data.status == 'success')){
+							maile = mail;
+						} else {
+							$.msgbox('แจ้งเตือน<br />ส่งเมลไม่สำเร็จ กรุณาลองใหม่อีครั้ง', {'type': 'warning'});
+							$('#verify-gen').removeClass('d-none');
+							$('#verify-otp').addClass('d-none');
+						}
+					}
+				} else if(action == 'send_otp'){
+					let num_otp = $('#vertfy_otp').val();
+					if(!isEmpty(val1)){
+						maile = $('#etax_email-'+ val1).val();
+					} else if(!isEmpty(gened)){
+						maile = gened;
+					}
+					data = await ajax_dlog('etax', { 'action': action, 'num_otp': num_otp, 'mail': maile.toLowerCase() });
+					warningAlert('tax_otp-'+ data.status);
+					if(!isEmpty(data.status == 'success')){
+						$.msgbox('<h3>ยืนยันอีเมลของคุณสำเร็จ</h3>', { type: 'info' });
+						verify_etax('success', data.is_etax);
+						$('#is_verify-order').val(data.is_etax);
+						$('#is_verify-mail, #etax_email-modal').val(data.is_mail);
+					}
+				} else if(action == 'cancel'){
+					data = await ajax_dlog('etax', { 'action': action });
+					if(!isEmpty(data.status == 'success')){
+						$.msgbox('<h3>ยกเลิกการรับใบเสร็จรับเงิน/ใบกำกับภาษีอิเล็กทรอนิกส์สำเร็จ</h3>', { type: 'info' });
+						verify_etax('success', data.is_etax);
+						$('#is_verify-mail, #etax_email-modal').val(data.is_mail);
+					}
+				} else if(action == 'nofirm'){
+					data = await ajax_dlog('etax', { 'action': action });
+					if(!isEmpty(data.status == 'success')){
+						verify_etax('success', data.is_etax);
+					}
+				} else if(action == 'success'){
+					$('#is_verify-tax').val(val1);
+					$('.etax-checked').removeClass('d-none');
+					$('.close-modal').modal('hide');
+					$('#ver_firm').attr('href', 'index.php/home/register/regis/').removeAttr('onclick');
+					if(val1 == 'T'){
+						$('.etax-firm').prop('checked', true);
+					} else {
+						$('.jquery-msgbox-buttons button[type=submit]').click();
+						$('.etax-firm').prop('checked', false);
+					}
+				}
+			}
+		}
+
+		function warningAlert(wType, vdata1){ // luketest
+			let Kcode = Acode = [];
+			let isLmc = false, isEtaxNorm = false, isEtaxNiti = false;
+			let wTxt = '', vcode = '', mss = '', addr0 = '', redAddr = '';
+			let lmcQty = 0, vnum = 0;
+			if(wType == 'emod-tax'){
+				isEtaxNiti = true;
+			} else if(wType == 'emod-mail'){
+				isEtaxNorm = true;
+			} else if(wType == 'emod-cancel'){
+				wTxt += '<h3>คุณต้องการยกเลิกการรับใบเสร็จรับเงิน/ใบกำกับภาษีอิเล็กททรอนิกส์ ใช่หรือไม่?</h3>';
+				wTxt += \`<button type="button" class="w-100 btn btn-primary btn-sm" onclick="verify_etax('cancel')">ใช่</button>\`;
+				wTxt += \`<button type="button" class="w-100 btn btn-sm" onclick="$('.jquery-msgbox-buttons button[type=submit]').click();">ไม่ใช่</button>\`;
+				$.msgbox(wTxt, {type: "confirm", buttons : [{type: "cancel", value: "ตกลง"}]});
+			} else if(wType == 'warn_limit'){
+				isLmc = true;
+			} else if(wType == 'tax_otp-clear'){
+				$('#vertfy_form').removeClass('was-validated');
+				$('#vertfy_otp').removeClass('is-invalid').removeAttr('required');
+				$('#validation-vertfy_otp').hide();
+			} else if(wType == 'tax_otp-fail'){
+				$('#vertfy_form').removeClass('was-validated');
+				$('#vertfy_otp').addClass('is-invalid').prop('required', true);
+				$('#validation-vertfy_otp').show();
+			} else if(wType == 'tax_otp-success'){
+				$('#vertfy_form').addClass('was-validated');
+				$('#vertfy_otp').removeAttr('required');
+				$('#validation-vertfy_otp').hide();
+			}
+			if(isEtaxNiti){
+				wTxt += '<h3>คุณต้องการรับใบกำกับภาษี<br />ในรูปแบบอิเล็กทรอนิกส์ (E-Tax) หรือไม่</h3>';
+				wTxt += '<p>หากคุณไม่ต้องการรับตอนนี้สามารถไปแก้ไขได้ที่ <span class="color-blue">เมนูข้อมูลส่วนตัว > ข้อมูลใบกำกับภาษี</span></p>';
+				if(vdata1 == 'emod-mail'){
+					wTxt += \`<button type="button" class="w-100 btn btn-primary btn-sm" onclick="
+					$('.jquery-msgbox-buttons button[type=submit]').click();
+					warningAlert('\${vdata1}');
+						">ต้องการ</button>\`;
+				} else {
+					wTxt += \`<button type="button" class="w-100 btn btn-primary btn-sm" onclick="
+						$('.jquery-msgbox-buttons button[type=submit]').click();
+						$('.verify_etax-box').prop('checked', true);
+						$('.verify-firm').prop('disabled', false);
+						">ต้องการ</button>\`;
+				}
+				wTxt += \`<button type="button" class="w-100 btn btn-sm" onclick="verify_etax('nofirm');">ไม่ต้องการ</button>\`;
+				$.msgbox(wTxt, {type: "confirm", buttons : [{type: "cancel", value: "ตกลง"}]});
+			} else if(isEtaxNorm){
+				$('#verify-gen').removeClass('d-none');
+				$('#verify-otp').addClass('d-none');
+				$('.verify_etax-box').prop('checked', false);
+				$('.verify-firm').prop('disabled', true);
+				$('#alert-etax').modal('show');
+				$('.jquery-modal').css('z-index', 999);
+			}
+		}
+
+		async function ajax_dlog(action, pos){
+			let result
+			try {
+				result = await $.ajax({
+					type: 'POST',
+					url: 'index.php/home/get_menu/'+ action,
+					data: pos,
+					dataType: 'json' });
+				return result;
+			} catch (error) {
+			}
+		}
+
+		function isEmpty(value){
+			return (value == null || value.length === 0 || value == 'undefined' || value == undefined || value == '' || !value || value.length < 1);
+		}
+
+		function isNumber(evt){
+			let charCode = (evt.which) ? evt.which : event.keyCode
+			if (charCode > 31 && (charCode < 48 || charCode > 57)) return false;
+			return true;
+		}
+
+	</script>
+	<script src="https://mstatic.priceza.com/js/tracking-3.0.js" async></script>
+</body>
+</html>
+`
