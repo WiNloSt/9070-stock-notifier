@@ -21,13 +21,20 @@ const job = CronJob.from({
     console.log(`${currentDate()}: every 5 minutes`)
     scrapeAdvice()
       .then(handleSuccess)
-      .catch(handleFailure('Advice', `https://www.advice.co.th/search?keyword=${SEARCH_TERM}`))
+      .catch(
+        handleFailure(
+          'Advice',
+          `https://www.advice.co.th/search?keyword=${encodeURIComponent(SEARCH_TERM)}`
+        )
+      )
     scrapeJib()
       .then(handleSuccess)
       .catch(
         handleFailure(
           'JIB',
-          `https://www.jib.co.th/web/product/product_search/0?str_search=${SEARCH_TERM}&cate_id%5B%5D=42`
+          `https://www.jib.co.th/web/product/product_search/0?str_search=${encodeURIComponent(
+            SEARCH_TERM
+          )}&cate_id%5B%5D=42`
         )
       )
     scrapeHeadDaddy()
