@@ -2,6 +2,7 @@ import * as cheerio from 'cheerio'
 import { ADVICE_RESPONSE } from './test-responses.js'
 
 export const SEARCH_TERM = '9070'
+
 /**
  * @typedef Item
  * @property {string} name
@@ -21,7 +22,7 @@ export function scrapeAdvice() {
     body: `menu_level=search&menu=${SEARCH_TERM}&skip=0&take=8&key=0&sort_promotion=&product_type=search`,
     method: 'POST',
   })
-    .then((res) => res.text())
+    .then(handleResponse)
     .then((res) => JSON.parse(res))
     .then((/** @type {typeof ADVICE_RESPONSE} */ data) => {
       return data.res
@@ -42,7 +43,7 @@ export function scrapeJib() {
   return fetch(
     `https://www.jib.co.th/web/product/product_search/0?str_search=${SEARCH_TERM}&cate_id[]=42`
   )
-    .then((res) => res.text())
+    .then(handleResponse)
     .then((res) => {
       const $jib = cheerio.load(res)
 
@@ -81,7 +82,7 @@ export function scrapeHeadDaddy() {
     body: `text=${SEARCH_TERM}`,
     method: 'POST',
   })
-    .then((res) => res.text())
+    .then(handleResponse)
     .then((res) => {
       const $headDaddy = cheerio.load(res)
 
@@ -101,4 +102,16 @@ export function scrapeHeadDaddy() {
         .filter(Boolean)
         .map((item) => `found ${item.name} at ${item.href}`)
     })
+}
+
+/**
+ *
+ * @param {Response} res
+ */
+function handleResponse(res) {
+  if (res.ok) {
+    return res.text()
+  }
+
+  throw new Error('Failed to fetch')
 }
