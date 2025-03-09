@@ -61,6 +61,7 @@ function handleSuccess(messages) {
 /**
  *
  * @param {string} source
+ * @param {string} url
  * @returns {(error: Error) => void}
  */
 function handleFailure(source, url) {
