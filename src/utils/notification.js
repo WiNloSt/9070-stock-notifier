@@ -1,4 +1,4 @@
-const { LINE_GROUP, CHANNEL_ACCESS_TOKEN } = process.env
+const { LINE_USER, CHANNEL_ACCESS_TOKEN } = process.env
 
 /**
  *
@@ -8,7 +8,7 @@ export function sendNotification(message) {
   return fetch('https://api.line.me/v2/bot/message/push', {
     method: 'POST',
     body: JSON.stringify({
-      to: LINE_GROUP,
+      to: LINE_USER,
       messages: [
         {
           type: 'text',
