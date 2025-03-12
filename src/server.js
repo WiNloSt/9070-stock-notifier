@@ -20,7 +20,7 @@ const job = CronJob.from({
   onTick: function () {
     console.log(`${currentDate()}: every 5 minutes`)
     scrapeAdvice()
-      .then(handleSuccess)
+      .then(handleSuccess('advice'))
       .catch(
         handleFailure(
           'Advice',
@@ -28,7 +28,7 @@ const job = CronJob.from({
         )
       )
     scrapeJib()
-      .then(handleSuccess)
+      .then(handleSuccess('jib'))
       .catch(
         handleFailure(
           'JIB',
@@ -38,7 +38,7 @@ const job = CronJob.from({
         )
       )
     scrapeHeadDaddy()
-      .then(handleSuccess)
+      .then(handleSuccess('headDaddy'))
       .catch(handleFailure('HeadDaddy', 'https://www.headdaddy.com/index.php/home/'))
   },
   start: true,
@@ -48,13 +48,29 @@ const job = CronJob.from({
 job.start()
 
 /**
- *
- * @param {string[]} messages
+ * @type {Record<import('./utils/scraper.js').Site, string>}
  */
-function handleSuccess(messages) {
-  const message = messages.join('\n')
-  if (message) {
-    return sendNotification(message)
+const previousSiteMessages = {
+  advice: '',
+  jib: '',
+  headDaddy: '',
+}
+/**
+ *
+ * @param {import('./utils/scraper.js').Site} site
+ */
+function handleSuccess(site) {
+  /**
+   *
+   * @param {string[]} messages
+   */
+  return function (messages) {
+    const previousSiteMessage = previousSiteMessages[site]
+    const message = messages.join('\n')
+    if (message && message !== previousSiteMessage) {
+      previousSiteMessages[site] = message
+      return sendNotification(message)
+    }
   }
 }
 
