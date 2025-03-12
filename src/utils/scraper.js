@@ -1,6 +1,8 @@
 import * as cheerio from 'cheerio'
 import { ADVICE_RESPONSE } from './test-responses.js'
+import { sendNotification } from './notification.js'
 
+// export const SEARCH_TERM = 'ryzen 9 9950x'
 export const SEARCH_TERM = '9070'
 
 /**
@@ -22,7 +24,7 @@ export function scrapeAdvice() {
     body: `menu_level=search&menu=${SEARCH_TERM}&skip=0&take=8&key=0&sort_promotion=&product_type=search`,
     method: 'POST',
   })
-    .then(handleResponse)
+    .then(handleResponse('advice'))
     .then((res) => JSON.parse(res))
     .then((/** @type {typeof ADVICE_RESPONSE} */ data) => {
       return data.res
@@ -43,7 +45,7 @@ export function scrapeJib() {
   return fetch(
     `https://www.jib.co.th/web/product/product_search/0?str_search=${SEARCH_TERM}&cate_id[]=42`
   )
-    .then(handleResponse)
+    .then(handleResponse('jib'))
     .then((res) => {
       const $jib = cheerio.load(res)
 
@@ -82,7 +84,7 @@ export function scrapeHeadDaddy() {
     body: `text=${SEARCH_TERM}`,
     method: 'POST',
   })
-    .then(handleResponse)
+    .then(handleResponse('headDaddy'))
     .then((res) => {
       const $headDaddy = cheerio.load(res)
 
@@ -105,13 +107,40 @@ export function scrapeHeadDaddy() {
 }
 
 /**
- *
- * @param {Response} res
+ * @type {Record<Site, number>}
  */
-function handleResponse(res) {
-  if (res.ok) {
-    return res.text()
-  }
+const previousSiteStatuses = {
+  jib: 0,
+  advice: 0,
+  headDaddy: 0,
+}
 
-  throw new Error('Failed to fetch')
+/**
+ * @typedef {'jib' | 'advice' | 'headDaddy'} Site
+ */
+/**
+ *
+ * @param {Site} source
+ */
+function handleResponse(source) {
+  /**
+   *
+   * @param {Response} res
+   */
+  return function (res) {
+    const previousSiteStatus = previousSiteStatuses[source]
+    previousSiteStatuses[source] = res.status
+    if (res.ok) {
+      if (previousSiteStatus >= 300) {
+        sendNotification(`✅ ${source} is back online`)
+      }
+      return res.text()
+    }
+
+    if (previousSiteStatus === 200) {
+      throw new Error(`Failed to fetch ${source}`)
+    }
+
+    return ''
+  }
 }
