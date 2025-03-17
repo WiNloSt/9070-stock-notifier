@@ -67,8 +67,8 @@ function handleSuccess(site) {
   return function (messages) {
     const previousSiteMessage = previousSiteMessages[site]
     const message = messages.join('\n')
+    previousSiteMessages[site] = message
     if (message && message !== previousSiteMessage) {
-      previousSiteMessages[site] = message
       return sendNotification(message)
     }
   }
