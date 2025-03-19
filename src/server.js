@@ -15,10 +15,11 @@ function currentDate() {
   }).format()
 }
 
+const EVERY_X_MINUTES = 2
 const job = CronJob.from({
-  cronTime: '0 */5 * * * *',
+  cronTime: `0 */${EVERY_X_MINUTES} * * * *`,
   onTick: function () {
-    console.log(`${currentDate()}: every 5 minutes`)
+    console.log(`${currentDate()}: every ${EVERY_X_MINUTES} minutes`)
     scrapeAdvice()
       .then(handleSuccess('advice'))
       .catch(
